@@ -1,0 +1,1372 @@
+index_all,date,info.match_type,info.neutral_venue,info.outcome.by.runs,info.outcome.by.wickets,info.outcome.winner,info.overs,info.teams,info.toss.decision,info.toss.winner
+7,"[datetime.date(2017, 1, 13)]",ODI,0,92,,Australia,50,"['Australia', 'Pakistan']",bat,Australia
+8,"[datetime.date(2017, 1, 15)]",ODI,0,,6,Pakistan,50,"['Australia', 'Pakistan']",bat,Australia
+9,"[datetime.date(2017, 1, 19)]",ODI,0,,7,Australia,50,"['Australia', 'Pakistan']",field,Australia
+10,"[datetime.date(2017, 1, 22)]",ODI,0,86,,Australia,50,"['Australia', 'Pakistan']",bat,Australia
+11,"[datetime.date(2017, 1, 26)]",ODI,0,57,,Australia,50,"['Australia', 'Pakistan']",bat,Australia
+12,"[datetime.date(2017, 2, 17)]",T20,0,,5,Sri Lanka,20,"['Australia', 'Sri Lanka']",field,Sri Lanka
+13,"[datetime.date(2017, 2, 19)]",T20,0,,2,Sri Lanka,20,"['Australia', 'Sri Lanka']",field,Sri Lanka
+14,"[datetime.date(2017, 2, 22)]",T20,0,41,,Australia,20,"['Australia', 'Sri Lanka']",field,Sri Lanka
+15,"[datetime.date(2016, 12, 4)]",ODI,0,68,,Australia,50,"['Australia', 'New Zealand']",bat,Australia
+16,"[datetime.date(2016, 12, 6)]",ODI,0,116,,Australia,50,"['Australia', 'New Zealand']",field,New Zealand
+17,"[datetime.date(2016, 12, 9)]",ODI,0,117,,Australia,50,"['Australia', 'New Zealand']",bat,Australia
+29,"[datetime.date(2016, 6, 11)]",ODI,0,,9,India,50,"['Zimbabwe', 'India']",field,India
+30,"[datetime.date(2016, 6, 13)]",ODI,0,,8,India,50,"['Zimbabwe', 'India']",field,India
+31,"[datetime.date(2016, 6, 15)]",ODI,0,,10,India,50,"['Zimbabwe', 'India']",bat,Zimbabwe
+32,"[datetime.date(2016, 6, 18)]",T20,0,2,,Zimbabwe,20,"['Zimbabwe', 'India']",field,India
+33,"[datetime.date(2016, 6, 20)]",T20,0,,10,India,20,"['Zimbabwe', 'India']",bat,Zimbabwe
+34,"[datetime.date(2016, 6, 22)]",T20,0,3,,India,20,"['Zimbabwe', 'India']",field,Zimbabwe
+37,"[datetime.date(2016, 12, 26)]",ODI,0,77,,New Zealand,50,"['New Zealand', 'Bangladesh']",bat,New Zealand
+38,"[datetime.date(2016, 12, 29)]",ODI,0,67,,New Zealand,50,"['New Zealand', 'Bangladesh']",field,Bangladesh
+39,"[datetime.date(2016, 12, 31)]",ODI,0,,8,New Zealand,50,"['New Zealand', 'Bangladesh']",bat,Bangladesh
+40,"[datetime.date(2017, 1, 3)]",T20,0,,6,New Zealand,20,"['New Zealand', 'Bangladesh']",bat,Bangladesh
+41,"[datetime.date(2017, 1, 6)]",T20,0,47,,New Zealand,20,"['New Zealand', 'Bangladesh']",field,Bangladesh
+42,"[datetime.date(2017, 1, 8)]",T20,0,27,,New Zealand,20,"['New Zealand', 'Bangladesh']",field,Bangladesh
+47,"[datetime.date(2017, 1, 30)]",ODI,0,6,,New Zealand,50,"['New Zealand', 'Australia']",field,Australia
+48,"[datetime.date(2017, 2, 5)]",ODI,0,24,,New Zealand,50,"['New Zealand', 'Australia']",bat,New Zealand
+49,"[datetime.date(2017, 2, 17)]",T20,0,78,,South Africa,20,"['New Zealand', 'South Africa']",field,New Zealand
+50,"[datetime.date(2017, 2, 19)]",ODI,0,,4,South Africa,50,"['New Zealand', 'South Africa']",field,South Africa
+51,"[datetime.date(2017, 2, 22)]",ODI,0,6,,New Zealand,50,"['New Zealand', 'South Africa']",field,South Africa
+52,"[datetime.date(2017, 2, 25)]",ODI,0,159,,South Africa,50,"['New Zealand', 'South Africa']",bat,South Africa
+53,"[datetime.date(2017, 3, 1)]",ODI,0,,7,New Zealand,50,"['New Zealand', 'South Africa']",bat,South Africa
+54,"[datetime.date(2017, 3, 4)]",ODI,0,,6,South Africa,50,"['New Zealand', 'South Africa']",field,South Africa
+58,"[datetime.date(2017, 6, 1)]",ODI,0,,8,England,50,"['England', 'Bangladesh']",field,England
+60,"[datetime.date(2017, 6, 3)]",ODI,1,96,,South Africa,50,"['South Africa', 'Sri Lanka']",field,Sri Lanka
+63,"[datetime.date(2017, 6, 6)]",ODI,0,87,,England,50,"['England', 'New Zealand']",field,New Zealand
+65,"[datetime.date(2017, 6, 8)]",ODI,1,,7,Sri Lanka,50,"['India', 'Sri Lanka']",field,Sri Lanka
+66,"[datetime.date(2017, 6, 9)]",ODI,1,,5,Bangladesh,50,"['Bangladesh', 'New Zealand']",bat,New Zealand
+68,"[datetime.date(2017, 6, 11)]",ODI,1,,8,India,50,"['India', 'South Africa']",field,India
+69,"[datetime.date(2017, 6, 12)]",ODI,1,,3,Pakistan,50,"['Pakistan', 'Sri Lanka']",field,Pakistan
+70,"[datetime.date(2017, 6, 14)]",ODI,0,,8,Pakistan,50,"['England', 'Pakistan']",field,Pakistan
+71,"[datetime.date(2017, 6, 15)]",ODI,1,,9,India,50,"['Bangladesh', 'India']",field,India
+72,"[datetime.date(2017, 6, 18)]",ODI,1,180,,Pakistan,50,"['India', 'Pakistan']",field,India
+117,"[datetime.date(2017, 3, 3)]",ODI,0,45,,England,50,"['West Indies', 'England']",field,West Indies
+118,"[datetime.date(2017, 3, 5)]",ODI,0,,4,England,50,"['West Indies', 'England']",bat,West Indies
+119,"[datetime.date(2017, 3, 9)]",ODI,0,186,,England,50,"['West Indies', 'England']",field,West Indies
+122,"[datetime.date(2016, 10, 7)]",ODI,0,21,,England,50,"['Bangladesh', 'England']",bat,England
+123,"[datetime.date(2016, 10, 9)]",ODI,0,34,,Bangladesh,50,"['Bangladesh', 'England']",field,England
+124,"[datetime.date(2016, 10, 12)]",ODI,0,,4,England,50,"['Bangladesh', 'England']",field,England
+130,"[datetime.date(2016, 10, 16)]",ODI,0,,6,India,50,"['India', 'New Zealand']",field,India
+131,"[datetime.date(2016, 10, 20)]",ODI,0,6,,New Zealand,50,"['India', 'New Zealand']",field,India
+132,"[datetime.date(2016, 10, 23)]",ODI,0,,7,India,50,"['India', 'New Zealand']",field,India
+133,"[datetime.date(2016, 10, 26)]",ODI,0,19,,New Zealand,50,"['India', 'New Zealand']",bat,New Zealand
+134,"[datetime.date(2016, 10, 29)]",ODI,0,190,,India,50,"['India', 'New Zealand']",bat,India
+135,"[datetime.date(2017, 5, 24)]",ODI,0,72,,England,50,"['England', 'South Africa']",field,South Africa
+136,"[datetime.date(2017, 5, 27)]",ODI,0,2,,England,50,"['England', 'South Africa']",field,South Africa
+137,"[datetime.date(2017, 5, 29)]",ODI,0,,7,South Africa,50,"['England', 'South Africa']",field,South Africa
+138,"[datetime.date(2017, 6, 21)]",T20,0,,9,England,20,"['England', 'South Africa']",bat,South Africa
+139,"[datetime.date(2017, 6, 23)]",T20,0,3,,South Africa,20,"['England', 'South Africa']",field,England
+140,"[datetime.date(2017, 6, 25)]",T20,0,19,,England,20,"['England', 'South Africa']",field,South Africa
+144,"[datetime.date(2017, 5, 17)]",ODI,1,,4,New Zealand,50,"['Bangladesh', 'New Zealand']",field,New Zealand
+147,"[datetime.date(2017, 5, 24)]",ODI,1,,5,Bangladesh,50,"['Bangladesh', 'New Zealand']",field,Bangladesh
+154,"[datetime.date(2017, 1, 15)]",ODI,0,,3,India,50,"['India', 'England']",field,India
+155,"[datetime.date(2017, 1, 19)]",ODI,0,15,,India,50,"['India', 'England']",field,England
+156,"[datetime.date(2017, 1, 22)]",ODI,0,5,,England,50,"['India', 'England']",field,India
+157,"[datetime.date(2017, 1, 26)]",T20,0,,7,England,20,"['India', 'England']",field,England
+158,"[datetime.date(2017, 1, 29)]",T20,0,5,,India,20,"['India', 'England']",field,England
+159,"[datetime.date(2017, 2, 1)]",T20,0,75,,India,20,"['India', 'England']",field,England
+170,"[datetime.date(2016, 8, 27)]",T20,1,1,,West Indies,20,"['India', 'West Indies']",field,India
+189,"[datetime.date(2016, 9, 23)]",T20,1,,9,Pakistan,20,"['Pakistan', 'West Indies']",field,Pakistan
+190,"[datetime.date(2016, 9, 24)]",T20,1,16,,Pakistan,20,"['Pakistan', 'West Indies']",field,West Indies
+191,"[datetime.date(2016, 9, 27)]",T20,1,,8,Pakistan,20,"['Pakistan', 'West Indies']",field,Pakistan
+193,"[datetime.date(2016, 10, 2)]",ODI,1,59,,Pakistan,50,"['Pakistan', 'West Indies']",bat,Pakistan
+194,"[datetime.date(2016, 10, 5)]",ODI,1,136,,Pakistan,50,"['Pakistan', 'West Indies']",bat,Pakistan
+217,"[datetime.date(2016, 11, 14)]",ODI,0,,8,Sri Lanka,50,"['Zimbabwe', 'Sri Lanka']",field,Sri Lanka
+218,"[datetime.date(2016, 11, 16)]",ODI,1,62,,West Indies,50,"['Sri Lanka', 'West Indies']",field,Sri Lanka
+221,"[datetime.date(2016, 11, 23)]",ODI,1,1,,Sri Lanka,50,"['Sri Lanka', 'West Indies']",field,West Indies
+223,"[datetime.date(2016, 11, 27)]",ODI,0,,6,Sri Lanka,50,"['Zimbabwe', 'Sri Lanka']",bat,Zimbabwe
+324,"[datetime.date(2017, 3, 26)]",T20,0,,6,Pakistan,20,"['West Indies', 'Pakistan']",field,Pakistan
+325,"[datetime.date(2017, 3, 30)]",T20,0,3,,Pakistan,20,"['West Indies', 'Pakistan']",field,West Indies
+326,"[datetime.date(2017, 4, 7)]",ODI,0,,4,West Indies,50,"['West Indies', 'Pakistan']",field,West Indies
+327,"[datetime.date(2017, 4, 9)]",ODI,0,74,,Pakistan,50,"['West Indies', 'Pakistan']",field,West Indies
+328,"[datetime.date(2017, 4, 11)]",ODI,0,,6,Pakistan,50,"['West Indies', 'Pakistan']",bat,West Indies
+403,"[datetime.date(2017, 3, 25)]",ODI,0,90,,Bangladesh,50,"['Sri Lanka', 'Bangladesh']",field,Sri Lanka
+405,"[datetime.date(2017, 4, 1)]",ODI,0,70,,Sri Lanka,50,"['Sri Lanka', 'Bangladesh']",field,Bangladesh
+406,"[datetime.date(2017, 4, 4)]",T20,0,,6,Sri Lanka,20,"['Sri Lanka', 'Bangladesh']",bat,Bangladesh
+407,"[datetime.date(2017, 4, 6)]",T20,0,45,,Bangladesh,20,"['Sri Lanka', 'Bangladesh']",bat,Bangladesh
+408,"[datetime.date(2017, 4, 1)]",T20,0,,7,West Indies,20,"['West Indies', 'Pakistan']",bat,Pakistan
+409,"[datetime.date(2017, 4, 2)]",T20,0,,7,Pakistan,20,"['West Indies', 'Pakistan']",field,Pakistan
+478,"[datetime.date(2017, 6, 25)]",ODI,0,105,,India,50,"['West Indies', 'India']",field,West Indies
+479,"[datetime.date(2017, 6, 30)]",ODI,0,93,,India,50,"['West Indies', 'India']",field,West Indies
+480,"[datetime.date(2017, 7, 2)]",ODI,0,11,,West Indies,50,"['West Indies', 'India']",bat,West Indies
+481,"[datetime.date(2017, 7, 6)]",ODI,0,,8,India,50,"['West Indies', 'India']",bat,West Indies
+482,"[datetime.date(2017, 7, 9)]",T20,0,,9,West Indies,20,"['West Indies', 'India']",field,West Indies
+483,"[datetime.date(2017, 6, 30)]",ODI,0,,6,Zimbabwe,50,"['Sri Lanka', 'Zimbabwe']",bat,Sri Lanka
+484,"[datetime.date(2017, 7, 2)]",ODI,0,,7,Sri Lanka,50,"['Sri Lanka', 'Zimbabwe']",field,Sri Lanka
+485,"[datetime.date(2017, 7, 6)]",ODI,0,,8,Sri Lanka,50,"['Sri Lanka', 'Zimbabwe']",field,Sri Lanka
+487,"[datetime.date(2017, 7, 10)]",ODI,0,,3,Zimbabwe,50,"['Sri Lanka', 'Zimbabwe']",field,Zimbabwe
+488,"[datetime.date(2005, 6, 13)]",T20,0,100,,England,20,"['England', 'Australia']",bat,England
+489,"[datetime.date(2005, 2, 17)]",T20,0,44,,Australia,20,"['New Zealand', 'Australia']",bat,Australia
+490,"[datetime.date(2005, 10, 21)]",T20,0,,5,New Zealand,20,"['South Africa', 'New Zealand']",field,New Zealand
+494,"[datetime.date(2006, 9, 5)]",ODI,0,,2,Pakistan,50,"['England', 'Pakistan']",field,Pakistan
+495,"[datetime.date(2006, 9, 8)]",ODI,0,,8,England,50,"['England', 'Pakistan']",bat,Pakistan
+496,"[datetime.date(2006, 9, 10)]",ODI,0,,3,England,50,"['England', 'Pakistan']",field,England
+497,"[datetime.date(2006, 6, 17)]",ODI,0,20,,Sri Lanka,50,"['England', 'Sri Lanka']",field,England
+498,"[datetime.date(2006, 6, 20)]",ODI,0,46,,Sri Lanka,50,"['England', 'Sri Lanka']",bat,Sri Lanka
+499,"[datetime.date(2006, 6, 24)]",ODI,0,,8,Sri Lanka,50,"['England', 'Sri Lanka']",bat,England
+500,"[datetime.date(2006, 6, 28)]",ODI,0,33,,Sri Lanka,50,"['England', 'Sri Lanka']",bat,Sri Lanka
+501,"[datetime.date(2006, 7, 1)]",ODI,0,,8,Sri Lanka,50,"['England', 'Sri Lanka']",bat,England
+502,"[datetime.date(2006, 8, 28)]",T20,0,,5,Pakistan,20,"['England', 'Pakistan']",bat,England
+503,"[datetime.date(2006, 6, 15)]",T20,0,2,,Sri Lanka,20,"['England', 'Sri Lanka']",bat,Sri Lanka
+504,"[datetime.date(2006, 1, 9)]",T20,0,95,,Australia,20,"['Australia', 'South Africa']",bat,Australia
+505,"[datetime.date(2006, 1, 15)]",ODI,0,,5,South Africa,50,"['Australia', 'South Africa']",bat,Australia
+506,"[datetime.date(2006, 1, 20)]",ODI,0,59,,Australia,50,"['Australia', 'South Africa']",bat,Australia
+507,"[datetime.date(2006, 2, 3)]",ODI,0,80,,Australia,50,"['Australia', 'South Africa']",bat,Australia
+508,"[datetime.date(2006, 2, 5)]",ODI,0,57,,Australia,50,"['Australia', 'South Africa']",bat,Australia
+509,"[datetime.date(2006, 1, 22)]",ODI,0,51,,Sri Lanka,50,"['Australia', 'Sri Lanka']",bat,Sri Lanka
+510,"[datetime.date(2006, 1, 26)]",ODI,0,,5,Australia,50,"['Australia', 'Sri Lanka']",bat,Sri Lanka
+511,"[datetime.date(2006, 1, 29)]",ODI,0,,6,Australia,50,"['Australia', 'Sri Lanka']",bat,Sri Lanka
+512,"[datetime.date(2006, 1, 17)]",ODI,1,94,,Sri Lanka,50,"['South Africa', 'Sri Lanka']",field,South Africa
+513,"[datetime.date(2006, 1, 24)]",ODI,1,9,,South Africa,50,"['South Africa', 'Sri Lanka']",bat,South Africa
+514,"[datetime.date(2006, 1, 31)]",ODI,1,,5,South Africa,50,"['South Africa', 'Sri Lanka']",bat,Sri Lanka
+515,"[datetime.date(2006, 2, 7)]",ODI,1,76,,Sri Lanka,50,"['South Africa', 'Sri Lanka']",bat,Sri Lanka
+516,"[datetime.date(2006, 1, 3)]",ODI,0,,5,New Zealand,50,"['New Zealand', 'Sri Lanka']",field,New Zealand
+517,"[datetime.date(2006, 1, 6)]",ODI,0,21,,New Zealand,50,"['New Zealand', 'Sri Lanka']",bat,New Zealand
+519,"[datetime.date(2006, 2, 10)]",ODI,0,22,,Sri Lanka,50,"['Australia', 'Sri Lanka']",bat,Sri Lanka
+520,"[datetime.date(2006, 2, 11)]",ODI,0,,7,India,50,"['Pakistan', 'India']",bat,Pakistan
+521,"[datetime.date(2006, 2, 12)]",ODI,0,167,,Australia,50,"['Australia', 'Sri Lanka']",bat,Australia
+522,"[datetime.date(2006, 2, 13)]",ODI,0,,5,India,50,"['Pakistan', 'India']",field,India
+523,"[datetime.date(2006, 2, 14)]",ODI,0,,9,Australia,50,"['Australia', 'Sri Lanka']",bat,Sri Lanka
+524,"[datetime.date(2006, 2, 16)]",ODI,0,,5,India,50,"['Pakistan', 'India']",field,India
+526,"[datetime.date(2006, 2, 18)]",ODI,0,81,,New Zealand,50,"['New Zealand', 'West Indies']",bat,New Zealand
+527,"[datetime.date(2006, 2, 19)]",ODI,0,,8,India,50,"['Pakistan', 'India']",field,India
+528,"[datetime.date(2006, 2, 20)]",ODI,0,,5,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",bat,Bangladesh
+529,"[datetime.date(2006, 2, 22)]",ODI,0,,4,Bangladesh,50,"['Bangladesh', 'Sri Lanka']",field,Bangladesh
+530,"[datetime.date(2006, 2, 25)]",ODI,0,78,,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",field,Bangladesh
+531,"[datetime.date(2006, 4, 23)]",ODI,0,,4,Australia,50,"['Bangladesh', 'Australia']",bat,Bangladesh
+532,"[datetime.date(2006, 4, 26)]",ODI,0,67,,Australia,50,"['Bangladesh', 'Australia']",bat,Australia
+533,"[datetime.date(2006, 4, 28)]",ODI,0,,9,Australia,50,"['Bangladesh', 'Australia']",bat,Bangladesh
+534,"[datetime.date(2006, 2, 22)]",ODI,0,,3,New Zealand,50,"['New Zealand', 'West Indies']",field,New Zealand
+535,"[datetime.date(2006, 2, 25)]",ODI,0,21,,New Zealand,50,"['New Zealand', 'West Indies']",bat,New Zealand
+536,"[datetime.date(2006, 3, 1)]",ODI,0,91,,New Zealand,50,"['New Zealand', 'West Indies']",field,West Indies
+537,"[datetime.date(2006, 3, 4)]",ODI,0,,3,West Indies,50,"['New Zealand', 'West Indies']",bat,New Zealand
+538,"[datetime.date(2006, 3, 28)]",ODI,0,39,,India,50,"['India', 'England']",field,England
+539,"[datetime.date(2006, 3, 31)]",ODI,0,,4,India,50,"['India', 'England']",bat,England
+540,"[datetime.date(2006, 4, 3)]",ODI,0,49,,India,50,"['India', 'England']",bat,India
+541,"[datetime.date(2006, 4, 12)]",ODI,0,,5,England,50,"['India', 'England']",bat,India
+542,"[datetime.date(2006, 4, 15)]",ODI,0,,7,India,50,"['India', 'England']",field,India
+543,"[datetime.date(2006, 2, 24)]",T20,0,2,,South Africa,20,"['South Africa', 'Australia']",bat,South Africa
+545,"[datetime.date(2006, 3, 3)]",ODI,0,196,,South Africa,50,"['South Africa', 'Australia']",bat,South Africa
+546,"[datetime.date(2006, 3, 5)]",ODI,0,24,,Australia,50,"['South Africa', 'Australia']",field,South Africa
+547,"[datetime.date(2006, 3, 10)]",ODI,0,,1,Australia,50,"['South Africa', 'Australia']",bat,South Africa
+548,"[datetime.date(2006, 3, 12)]",ODI,0,,1,South Africa,50,"['South Africa', 'Australia']",bat,Australia
+550,"[datetime.date(2006, 3, 19)]",ODI,0,,4,Pakistan,50,"['Sri Lanka', 'Pakistan']",field,Pakistan
+551,"[datetime.date(2006, 3, 22)]",ODI,0,,4,Pakistan,50,"['Sri Lanka', 'Pakistan']",field,Pakistan
+552,"[datetime.date(2006, 4, 29)]",ODI,0,,5,West Indies,50,"['West Indies', 'Zimbabwe']",field,West Indies
+553,"[datetime.date(2006, 4, 30)]",ODI,0,98,,West Indies,50,"['West Indies', 'Zimbabwe']",bat,West Indies
+554,"[datetime.date(2006, 5, 10)]",ODI,0,,10,West Indies,50,"['West Indies', 'Zimbabwe']",bat,Zimbabwe
+556,"[datetime.date(2006, 5, 14)]",ODI,0,104,,West Indies,50,"['West Indies', 'Zimbabwe']",bat,West Indies
+557,"[datetime.date(2006, 5, 20)]",ODI,0,1,,West Indies,50,"['West Indies', 'India']",field,India
+558,"[datetime.date(2006, 5, 23)]",ODI,0,,4,West Indies,50,"['West Indies', 'India']",bat,India
+559,"[datetime.date(2006, 5, 26)]",ODI,0,,6,West Indies,50,"['West Indies', 'India']",field,West Indies
+560,"[datetime.date(2006, 5, 28)]",ODI,0,19,,West Indies,50,"['West Indies', 'India']",field,India
+561,"[datetime.date(2006, 4, 18)]",ODI,1,,6,Pakistan,50,"['India', 'Pakistan']",bat,India
+562,"[datetime.date(2006, 4, 19)]",ODI,1,51,,India,50,"['India', 'Pakistan']",bat,India
+563,"[datetime.date(2007, 3, 13)]",ODI,0,54,,West Indies,50,"['West Indies', 'Pakistan']",field,Pakistan
+568,"[datetime.date(2007, 3, 16)]",ODI,1,,6,New Zealand,50,"['England', 'New Zealand']",field,New Zealand
+569,"[datetime.date(2007, 3, 17)]",ODI,1,,5,Bangladesh,50,"['Bangladesh', 'India']",bat,India
+574,"[datetime.date(2007, 3, 19)]",ODI,0,,6,West Indies,50,"['West Indies', 'Zimbabwe']",field,West Indies
+581,"[datetime.date(2007, 3, 23)]",ODI,1,69,,Sri Lanka,50,"['India', 'Sri Lanka']",field,India
+583,"[datetime.date(2007, 3, 24)]",ODI,1,83,,Australia,50,"['Australia', 'South Africa']",field,South Africa
+586,"[datetime.date(2007, 3, 27), datetime.date(2007, 3, 28)]",ODI,0,103,,Australia,50,"['West Indies', 'Australia']",field,West Indies
+587,"[datetime.date(2007, 3, 28)]",ODI,1,,1,South Africa,50,"['South Africa', 'Sri Lanka']",bat,Sri Lanka
+588,"[datetime.date(2007, 3, 29)]",ODI,0,,7,New Zealand,50,"['West Indies', 'New Zealand']",field,New Zealand
+590,"[datetime.date(2007, 3, 31)]",ODI,1,,10,Australia,50,"['Australia', 'Bangladesh']",field,Australia
+591,"[datetime.date(2007, 4, 1)]",ODI,0,113,,Sri Lanka,50,"['West Indies', 'Sri Lanka']",field,West Indies
+592,"[datetime.date(2007, 4, 2)]",ODI,1,,9,New Zealand,50,"['Bangladesh', 'New Zealand']",field,New Zealand
+594,"[datetime.date(2007, 4, 4)]",ODI,1,2,,Sri Lanka,50,"['England', 'Sri Lanka']",field,England
+595,"[datetime.date(2007, 4, 7)]",ODI,1,67,,Bangladesh,50,"['Bangladesh', 'South Africa']",field,South Africa
+596,"[datetime.date(2007, 4, 8)]",ODI,1,,7,Australia,50,"['Australia', 'England']",bat,England
+598,"[datetime.date(2007, 4, 10)]",ODI,0,67,,South Africa,50,"['West Indies', 'South Africa']",field,West Indies
+599,"[datetime.date(2007, 4, 11)]",ODI,1,,4,England,50,"['Bangladesh', 'England']",field,England
+600,"[datetime.date(2007, 4, 12)]",ODI,1,,6,Sri Lanka,50,"['New Zealand', 'Sri Lanka']",bat,New Zealand
+602,"[datetime.date(2007, 4, 14)]",ODI,1,,5,New Zealand,50,"['New Zealand', 'South Africa']",field,New Zealand
+604,"[datetime.date(2007, 4, 16)]",ODI,1,,7,Australia,50,"['Australia', 'Sri Lanka']",bat,Sri Lanka
+605,"[datetime.date(2007, 4, 17)]",ODI,1,,9,South Africa,50,"['England', 'South Africa']",bat,England
+607,"[datetime.date(2007, 4, 19)]",ODI,0,99,,West Indies,50,"['West Indies', 'Bangladesh']",field,Bangladesh
+608,"[datetime.date(2007, 4, 20)]",ODI,1,215,,Australia,50,"['Australia', 'New Zealand']",bat,Australia
+609,"[datetime.date(2007, 4, 21)]",ODI,0,,1,England,50,"['West Indies', 'England']",field,England
+610,"[datetime.date(2007, 4, 24)]",ODI,1,81,,Sri Lanka,50,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+611,"[datetime.date(2007, 4, 25)]",ODI,1,,7,Australia,50,"['Australia', 'South Africa']",bat,South Africa
+613,"[datetime.date(2006, 8, 6)]",ODI,0,,8,Bangladesh,50,"['Zimbabwe', 'Bangladesh']",bat,Zimbabwe
+614,"[datetime.date(2006, 11, 22)]",ODI,0,157,,South Africa,50,"['South Africa', 'India']",bat,South Africa
+615,"[datetime.date(2006, 11, 26)]",ODI,0,106,,South Africa,50,"['South Africa', 'India']",bat,South Africa
+616,"[datetime.date(2006, 11, 29)]",ODI,0,80,,South Africa,50,"['South Africa', 'India']",bat,South Africa
+617,"[datetime.date(2006, 12, 3)]",ODI,0,,9,South Africa,50,"['South Africa', 'India']",field,South Africa
+618,"[datetime.date(2007, 1, 9)]",T20,0,77,,Australia,20,"['Australia', 'England']",bat,Australia
+619,"[datetime.date(2007, 1, 14)]",ODI,0,105,,Australia,50,"['Australia', 'New Zealand']",bat,Australia
+620,"[datetime.date(2007, 1, 21)]",ODI,0,,2,Australia,50,"['Australia', 'New Zealand']",bat,New Zealand
+621,"[datetime.date(2007, 1, 28)]",ODI,0,8,,Australia,50,"['Australia', 'New Zealand']",bat,Australia
+622,"[datetime.date(2007, 2, 4)]",ODI,0,,5,Australia,50,"['Australia', 'New Zealand']",bat,New Zealand
+623,"[datetime.date(2007, 1, 12)]",ODI,0,,8,Australia,50,"['Australia', 'England']",bat,England
+624,"[datetime.date(2007, 1, 19)]",ODI,0,,4,Australia,50,"['Australia', 'England']",bat,England
+625,"[datetime.date(2007, 1, 26)]",ODI,0,,9,Australia,50,"['Australia', 'England']",bat,England
+626,"[datetime.date(2007, 2, 2)]",ODI,0,92,,England,50,"['Australia', 'England']",bat,England
+627,"[datetime.date(2007, 1, 16)]",ODI,1,,3,England,50,"['England', 'New Zealand']",bat,New Zealand
+628,"[datetime.date(2007, 1, 23)]",ODI,1,90,,New Zealand,50,"['England', 'New Zealand']",bat,New Zealand
+629,"[datetime.date(2007, 1, 30)]",ODI,1,58,,New Zealand,50,"['England', 'New Zealand']",bat,New Zealand
+630,"[datetime.date(2007, 2, 6)]",ODI,1,14,,England,50,"['England', 'New Zealand']",bat,England
+631,"[datetime.date(2007, 2, 9)]",ODI,0,,4,England,50,"['Australia', 'England']",bat,Australia
+636,"[datetime.date(2006, 10, 7)]",ODI,1,37,,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",field,Bangladesh
+637,"[datetime.date(2006, 10, 8)]",ODI,1,,9,West Indies,50,"['West Indies', 'Zimbabwe']",bat,Zimbabwe
+638,"[datetime.date(2006, 10, 10)]",ODI,1,144,,Sri Lanka,50,"['Sri Lanka', 'Zimbabwe']",bat,Sri Lanka
+639,"[datetime.date(2006, 10, 11)]",ODI,1,,10,West Indies,50,"['Bangladesh', 'West Indies']",bat,Bangladesh
+640,"[datetime.date(2006, 10, 13)]",ODI,1,101,,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Zimbabwe
+641,"[datetime.date(2006, 10, 14)]",ODI,1,,9,Sri Lanka,50,"['Sri Lanka', 'West Indies']",bat,West Indies
+642,"[datetime.date(2006, 10, 15)]",ODI,0,,4,India,50,"['India', 'England']",field,India
+643,"[datetime.date(2006, 10, 16)]",ODI,1,87,,New Zealand,50,"['New Zealand', 'South Africa']",field,South Africa
+644,"[datetime.date(2006, 10, 17)]",ODI,1,,4,Pakistan,50,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+645,"[datetime.date(2006, 10, 18)]",ODI,1,10,,West Indies,50,"['Australia', 'West Indies']",bat,West Indies
+646,"[datetime.date(2006, 10, 20)]",ODI,1,,7,Sri Lanka,50,"['New Zealand', 'Sri Lanka']",bat,New Zealand
+647,"[datetime.date(2006, 10, 21)]",ODI,1,,6,Australia,50,"['Australia', 'England']",field,Australia
+648,"[datetime.date(2006, 10, 24)]",ODI,1,78,,South Africa,50,"['South Africa', 'Sri Lanka']",field,Sri Lanka
+649,"[datetime.date(2006, 10, 25)]",ODI,1,51,,New Zealand,50,"['New Zealand', 'Pakistan']",field,Pakistan
+650,"[datetime.date(2006, 10, 26)]",ODI,0,,3,West Indies,50,"['India', 'West Indies']",field,West Indies
+651,"[datetime.date(2006, 10, 27)]",ODI,1,124,,South Africa,50,"['Pakistan', 'South Africa']",bat,South Africa
+652,"[datetime.date(2006, 10, 28)]",ODI,1,,3,England,50,"['England', 'West Indies']",bat,West Indies
+653,"[datetime.date(2006, 10, 29)]",ODI,0,,6,Australia,50,"['India', 'Australia']",bat,India
+654,"[datetime.date(2006, 11, 1)]",ODI,1,34,,Australia,50,"['Australia', 'New Zealand']",field,New Zealand
+655,"[datetime.date(2006, 11, 2)]",ODI,1,,6,West Indies,50,"['South Africa', 'West Indies']",bat,South Africa
+657,"[datetime.date(2007, 2, 4)]",ODI,0,164,,South Africa,50,"['South Africa', 'Pakistan']",field,Pakistan
+658,"[datetime.date(2007, 2, 7)]",ODI,0,141,,Pakistan,50,"['South Africa', 'Pakistan']",bat,Pakistan
+660,"[datetime.date(2007, 2, 11)]",ODI,0,,10,South Africa,50,"['South Africa', 'Pakistan']",field,South Africa
+661,"[datetime.date(2007, 2, 14)]",ODI,0,,9,South Africa,50,"['South Africa', 'Pakistan']",bat,Pakistan
+663,"[datetime.date(2006, 12, 26)]",T20,0,,5,New Zealand,20,"['New Zealand', 'Sri Lanka']",field,New Zealand
+664,"[datetime.date(2006, 12, 28)]",ODI,0,,7,Sri Lanka,50,"['New Zealand', 'Sri Lanka']",bat,New Zealand
+666,"[datetime.date(2007, 1, 6)]",ODI,0,189,,Sri Lanka,50,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+667,"[datetime.date(2007, 2, 16)]",ODI,0,,10,New Zealand,50,"['New Zealand', 'Australia']",field,New Zealand
+668,"[datetime.date(2007, 2, 18)]",ODI,0,,5,New Zealand,50,"['New Zealand', 'Australia']",field,New Zealand
+669,"[datetime.date(2007, 2, 20)]",ODI,0,,1,New Zealand,50,"['New Zealand', 'Australia']",bat,Australia
+670,"[datetime.date(2006, 12, 1)]",T20,0,,6,India,20,"['South Africa', 'India']",bat,South Africa
+671,"[datetime.date(2006, 9, 15)]",ODI,0,,5,South Africa,50,"['South Africa', 'Zimbabwe']",bat,Zimbabwe
+674,"[datetime.date(2006, 9, 18)]",ODI,1,,3,West Indies,50,"['Australia', 'West Indies']",bat,Australia
+675,"[datetime.date(2006, 9, 20)]",ODI,1,16,,India,50,"['India', 'West Indies']",bat,India
+676,"[datetime.date(2006, 9, 22)]",ODI,1,18,,Australia,50,"['Australia', 'India']",bat,Australia
+677,"[datetime.date(2006, 9, 24)]",ODI,1,127,,Australia,50,"['Australia', 'West Indies']",bat,Australia
+679,"[datetime.date(2006, 9, 20)]",ODI,0,171,,South Africa,50,"['South Africa', 'Zimbabwe']",bat,South Africa
+680,"[datetime.date(2006, 12, 7)]",ODI,0,,2,Pakistan,50,"['Pakistan', 'West Indies']",field,Pakistan
+682,"[datetime.date(2006, 12, 13)]",ODI,0,,7,West Indies,50,"['Pakistan', 'West Indies']",bat,Pakistan
+683,"[datetime.date(2006, 12, 16)]",ODI,0,,7,Pakistan,50,"['Pakistan', 'West Indies']",field,Pakistan
+684,"[datetime.date(2007, 6, 28)]",T20,0,15,,West Indies,20,"['England', 'West Indies']",bat,West Indies
+685,"[datetime.date(2007, 6, 29)]",T20,0,,5,England,20,"['England', 'West Indies']",bat,West Indies
+686,"[datetime.date(2007, 7, 1)]",ODI,0,79,,England,50,"['England', 'West Indies']",field,West Indies
+687,"[datetime.date(2007, 7, 4)]",ODI,0,61,,West Indies,50,"['England', 'West Indies']",field,England
+688,"[datetime.date(2007, 7, 7)]",ODI,0,93,,West Indies,50,"['England', 'West Indies']",bat,West Indies
+689,"[datetime.date(2007, 8, 21)]",ODI,0,104,,England,50,"['England', 'India']",field,India
+690,"[datetime.date(2007, 8, 24)]",ODI,0,9,,India,50,"['England', 'India']",bat,India
+691,"[datetime.date(2007, 8, 27)]",ODI,0,42,,England,50,"['England', 'India']",field,India
+692,"[datetime.date(2007, 8, 30)]",ODI,0,,3,England,50,"['England', 'India']",bat,India
+694,"[datetime.date(2007, 9, 5)]",ODI,0,,2,India,50,"['England', 'India']",bat,England
+695,"[datetime.date(2007, 9, 8)]",ODI,0,,7,England,50,"['England', 'India']",bat,India
+700,"[datetime.date(2006, 9, 18)]",ODI,0,,6,South Africa,50,"['South Africa', 'Zimbabwe']",bat,Zimbabwe
+701,"[datetime.date(2006, 12, 3)]",ODI,0,,6,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Bangladesh
+702,"[datetime.date(2006, 12, 5)]",ODI,0,26,,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Zimbabwe
+703,"[datetime.date(2006, 12, 8)]",ODI,0,,8,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Bangladesh
+704,"[datetime.date(2006, 12, 9)]",ODI,0,,3,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Bangladesh
+709,"[datetime.date(2007, 1, 27)]",ODI,0,,3,West Indies,50,"['India', 'West Indies']",field,West Indies
+710,"[datetime.date(2007, 1, 31)]",ODI,0,160,,India,50,"['India', 'West Indies']",field,West Indies
+712,"[datetime.date(2007, 2, 11)]",ODI,0,5,,Sri Lanka,50,"['India', 'Sri Lanka']",field,India
+713,"[datetime.date(2007, 2, 17)]",ODI,0,,7,India,50,"['India', 'Sri Lanka']",field,India
+714,"[datetime.date(2007, 2, 14)]",ODI,0,,5,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+716,"[datetime.date(2007, 5, 10)]",ODI,0,,5,India,50,"['Bangladesh', 'India']",bat,Bangladesh
+717,"[datetime.date(2007, 5, 12)]",ODI,0,46,,India,50,"['Bangladesh', 'India']",bat,India
+718,"[datetime.date(2007, 9, 11)]",T20,0,,8,South Africa,20,"['South Africa', 'West Indies']",field,South Africa
+721,"[datetime.date(2007, 9, 12)]",T20,1,,5,Zimbabwe,20,"['Australia', 'Zimbabwe']",bat,Australia
+722,"[datetime.date(2007, 9, 13)]",T20,1,,6,Bangladesh,20,"['Bangladesh', 'West Indies']",field,Bangladesh
+723,"[datetime.date(2007, 9, 13)]",T20,1,50,,England,20,"['England', 'Zimbabwe']",bat,England
+725,"[datetime.date(2007, 9, 14)]",T20,1,,8,Australia,20,"['Australia', 'England']",bat,England
+727,"[datetime.date(2007, 9, 15)]",T20,1,,7,Sri Lanka,20,"['New Zealand', 'Sri Lanka']",bat,New Zealand
+728,"[datetime.date(2007, 9, 15)]",T20,0,,7,South Africa,20,"['South Africa', 'Bangladesh']",field,South Africa
+729,"[datetime.date(2007, 9, 16)]",T20,1,10,,New Zealand,20,"['India', 'New Zealand']",field,India
+730,"[datetime.date(2007, 9, 16)]",T20,1,,9,Australia,20,"['Australia', 'Bangladesh']",field,Australia
+731,"[datetime.date(2007, 9, 16)]",T20,0,19,,South Africa,20,"['South Africa', 'England']",field,England
+732,"[datetime.date(2007, 9, 17)]",T20,1,33,,Pakistan,20,"['Pakistan', 'Sri Lanka']",field,Sri Lanka
+733,"[datetime.date(2007, 9, 18)]",T20,1,5,,New Zealand,20,"['England', 'New Zealand']",field,England
+734,"[datetime.date(2007, 9, 18)]",T20,1,,6,Pakistan,20,"['Australia', 'Pakistan']",field,Pakistan
+735,"[datetime.date(2007, 9, 18)]",T20,1,64,,Sri Lanka,20,"['Bangladesh', 'Sri Lanka']",field,Bangladesh
+736,"[datetime.date(2007, 9, 19)]",T20,0,,6,South Africa,20,"['South Africa', 'New Zealand']",field,South Africa
+737,"[datetime.date(2007, 9, 19)]",T20,1,18,,India,20,"['England', 'India']",bat,India
+738,"[datetime.date(2007, 9, 20)]",T20,1,,10,Australia,20,"['Australia', 'Sri Lanka']",field,Australia
+739,"[datetime.date(2007, 9, 20)]",T20,1,,4,Pakistan,20,"['Bangladesh', 'Pakistan']",field,Pakistan
+740,"[datetime.date(2007, 9, 20)]",T20,0,37,,India,20,"['South Africa', 'India']",bat,India
+741,"[datetime.date(2007, 9, 22)]",T20,1,,6,Pakistan,20,"['New Zealand', 'Pakistan']",bat,New Zealand
+742,"[datetime.date(2007, 9, 22)]",T20,1,15,,India,20,"['Australia', 'India']",bat,India
+743,"[datetime.date(2007, 9, 24)]",T20,1,5,,India,20,"['India', 'Pakistan']",bat,India
+747,"[datetime.date(2007, 10, 1)]",ODI,0,119,,Sri Lanka,50,"['Sri Lanka', 'England']",bat,Sri Lanka
+748,"[datetime.date(2007, 10, 4)]",ODI,0,65,,England,50,"['Sri Lanka', 'England']",bat,England
+749,"[datetime.date(2007, 10, 10)]",ODI,0,,5,England,50,"['Sri Lanka', 'England']",bat,Sri Lanka
+750,"[datetime.date(2007, 10, 13)]",ODI,0,107,,Sri Lanka,50,"['Sri Lanka', 'England']",bat,Sri Lanka
+751,"[datetime.date(2007, 12, 11)]",T20,0,54,,Australia,20,"['Australia', 'New Zealand']",bat,Australia
+752,"[datetime.date(2007, 12, 14)]",ODI,0,,7,Australia,50,"['Australia', 'New Zealand']",bat,New Zealand
+754,"[datetime.date(2007, 12, 20)]",ODI,0,114,,Australia,50,"['Australia', 'New Zealand']",field,New Zealand
+758,"[datetime.date(2008, 2, 1)]",T20,0,,9,Australia,20,"['Australia', 'India']",bat,India
+761,"[datetime.date(2008, 2, 8)]",ODI,0,128,,Australia,50,"['Australia', 'Sri Lanka']",bat,Australia
+762,"[datetime.date(2008, 2, 10)]",ODI,0,,5,India,50,"['Australia', 'India']",bat,Australia
+763,"[datetime.date(2008, 2, 15)]",ODI,0,63,,Australia,50,"['Australia', 'Sri Lanka']",bat,Australia
+764,"[datetime.date(2008, 2, 17)]",ODI,0,50,,Australia,50,"['Australia', 'India']",bat,Australia
+765,"[datetime.date(2008, 2, 19)]",ODI,1,,2,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+767,"[datetime.date(2008, 2, 24)]",ODI,0,18,,Australia,50,"['Australia', 'India']",bat,Australia
+768,"[datetime.date(2008, 2, 26)]",ODI,1,,7,India,50,"['India', 'Sri Lanka']",field,India
+769,"[datetime.date(2008, 2, 29)]",ODI,0,13,,Sri Lanka,50,"['Australia', 'Sri Lanka']",bat,Sri Lanka
+770,"[datetime.date(2008, 3, 2)]",ODI,0,,6,India,50,"['Australia', 'India']",bat,Australia
+771,"[datetime.date(2008, 3, 4)]",ODI,0,9,,India,50,"['Australia', 'India']",bat,India
+774,"[datetime.date(2007, 6, 26)]",ODI,1,,4,South Africa,50,"['India', 'South Africa']",field,South Africa
+775,"[datetime.date(2007, 6, 29)]",ODI,1,,6,India,50,"['India', 'South Africa']",field,India
+776,"[datetime.date(2007, 7, 1)]",ODI,1,,6,India,50,"['India', 'South Africa']",field,India
+777,"[datetime.date(2007, 7, 20)]",ODI,0,70,,Sri Lanka,50,"['Sri Lanka', 'Bangladesh']",field,Bangladesh
+778,"[datetime.date(2007, 7, 23)]",ODI,0,,5,Sri Lanka,50,"['Sri Lanka', 'Bangladesh']",field,Sri Lanka
+779,"[datetime.date(2007, 7, 25)]",ODI,0,39,,Sri Lanka,50,"['Sri Lanka', 'Bangladesh']",field,Bangladesh
+787,"[datetime.date(2008, 6, 13)]",T20,0,,9,England,20,"['England', 'New Zealand']",field,England
+788,"[datetime.date(2008, 6, 15)]",ODI,0,114,,England,50,"['England', 'New Zealand']",field,New Zealand
+790,"[datetime.date(2008, 6, 21)]",ODI,0,22,,New Zealand,50,"['England', 'New Zealand']",field,England
+791,"[datetime.date(2008, 6, 25)]",ODI,0,,1,New Zealand,50,"['England', 'New Zealand']",field,New Zealand
+792,"[datetime.date(2008, 6, 28)]",ODI,0,51,,New Zealand,50,"['England', 'New Zealand']",field,England
+797,"[datetime.date(2008, 8, 22)]",ODI,0,20,,England,50,"['England', 'South Africa']",bat,England
+798,"[datetime.date(2008, 8, 26)]",ODI,0,,10,England,50,"['England', 'South Africa']",bat,South Africa
+799,"[datetime.date(2008, 8, 29)]",ODI,0,126,,England,50,"['England', 'South Africa']",field,South Africa
+803,"[datetime.date(2007, 10, 2)]",ODI,0,84,,Australia,50,"['India', 'Australia']",field,India
+804,"[datetime.date(2007, 10, 5)]",ODI,0,47,,Australia,50,"['India', 'Australia']",bat,Australia
+805,"[datetime.date(2007, 10, 8)]",ODI,0,8,,India,50,"['India', 'Australia']",bat,India
+806,"[datetime.date(2007, 10, 11)]",ODI,0,,9,Australia,50,"['India', 'Australia']",bat,India
+807,"[datetime.date(2007, 10, 14)]",ODI,0,18,,Australia,50,"['India', 'Australia']",bat,Australia
+808,"[datetime.date(2007, 10, 17)]",ODI,0,,2,India,50,"['India', 'Australia']",bat,Australia
+809,"[datetime.date(2007, 10, 20)]",T20,0,,7,India,20,"['India', 'Australia']",bat,Australia
+810,"[datetime.date(2007, 11, 5)]",ODI,0,,5,India,50,"['India', 'Pakistan']",bat,Pakistan
+811,"[datetime.date(2007, 11, 8)]",ODI,0,,4,Pakistan,50,"['India', 'Pakistan']",bat,India
+812,"[datetime.date(2007, 11, 11)]",ODI,0,46,,India,50,"['India', 'Pakistan']",field,Pakistan
+813,"[datetime.date(2007, 11, 15)]",ODI,0,,6,India,50,"['India', 'Pakistan']",bat,Pakistan
+814,"[datetime.date(2007, 11, 18)]",ODI,0,31,,Pakistan,50,"['India', 'Pakistan']",field,India
+815,"[datetime.date(2007, 11, 23)]",T20,0,,3,South Africa,20,"['South Africa', 'New Zealand']",field,South Africa
+816,"[datetime.date(2007, 11, 25)]",ODI,0,,2,South Africa,50,"['South Africa', 'New Zealand']",field,South Africa
+817,"[datetime.date(2007, 11, 30)]",ODI,0,,7,New Zealand,50,"['South Africa', 'New Zealand']",bat,South Africa
+818,"[datetime.date(2007, 12, 2)]",ODI,0,,5,South Africa,50,"['South Africa', 'New Zealand']",bat,New Zealand
+821,"[datetime.date(2008, 1, 18)]",T20,0,,4,South Africa,20,"['South Africa', 'West Indies']",field,South Africa
+822,"[datetime.date(2008, 1, 20)]",ODI,0,,6,South Africa,50,"['South Africa', 'West Indies']",field,South Africa
+823,"[datetime.date(2008, 1, 25)]",ODI,0,86,,South Africa,50,"['South Africa', 'West Indies']",bat,South Africa
+824,"[datetime.date(2008, 1, 27)]",ODI,0,,7,South Africa,50,"['South Africa', 'West Indies']",bat,West Indies
+825,"[datetime.date(2008, 2, 1)]",ODI,0,,5,South Africa,50,"['South Africa', 'West Indies']",bat,West Indies
+827,"[datetime.date(2007, 10, 18)]",ODI,0,45,,South Africa,50,"['Pakistan', 'South Africa']",bat,South Africa
+828,"[datetime.date(2007, 10, 20)]",ODI,0,25,,Pakistan,50,"['Pakistan', 'South Africa']",bat,Pakistan
+829,"[datetime.date(2007, 10, 23)]",ODI,0,,6,Pakistan,50,"['Pakistan', 'South Africa']",bat,South Africa
+830,"[datetime.date(2007, 10, 26)]",ODI,0,,7,South Africa,50,"['Pakistan', 'South Africa']",bat,Pakistan
+831,"[datetime.date(2007, 10, 29)]",ODI,0,14,,South Africa,50,"['Pakistan', 'South Africa']",bat,South Africa
+832,"[datetime.date(2007, 12, 26)]",ODI,0,,6,New Zealand,50,"['New Zealand', 'Bangladesh']",field,New Zealand
+834,"[datetime.date(2007, 12, 31)]",ODI,0,,10,New Zealand,50,"['New Zealand', 'Bangladesh']",field,New Zealand
+837,"[datetime.date(2008, 2, 5)]",T20,0,32,,England,20,"['New Zealand', 'England']",field,New Zealand
+838,"[datetime.date(2008, 2, 7)]",T20,0,50,,England,20,"['New Zealand', 'England']",bat,England
+839,"[datetime.date(2008, 2, 9)]",ODI,0,,6,New Zealand,50,"['New Zealand', 'England']",bat,England
+847,"[datetime.date(2007, 8, 22)]",ODI,0,,5,South Africa,50,"['Zimbabwe', 'South Africa']",bat,Zimbabwe
+848,"[datetime.date(2007, 8, 25)]",ODI,0,,8,South Africa,50,"['Zimbabwe', 'South Africa']",field,South Africa
+849,"[datetime.date(2007, 8, 26)]",ODI,0,28,,South Africa,50,"['Zimbabwe', 'South Africa']",bat,South Africa
+851,"[datetime.date(2007, 9, 2)]",T20,1,30,,Pakistan,20,"['Bangladesh', 'Pakistan']",field,Bangladesh
+856,"[datetime.date(2007, 11, 30)]",ODI,0,30,,Zimbabwe,50,"['Zimbabwe', 'West Indies']",field,West Indies
+857,"[datetime.date(2007, 12, 2)]",ODI,0,110,,West Indies,50,"['Zimbabwe', 'West Indies']",field,Zimbabwe
+858,"[datetime.date(2007, 12, 7)]",ODI,0,,5,West Indies,50,"['Zimbabwe', 'West Indies']",field,West Indies
+859,"[datetime.date(2007, 12, 16)]",T20,0,,5,West Indies,20,"['South Africa', 'West Indies']",field,West Indies
+862,"[datetime.date(2008, 4, 10)]",ODI,0,,1,West Indies,50,"['West Indies', 'Sri Lanka']",field,West Indies
+868,"[datetime.date(2008, 6, 20)]",T20,0,,7,West Indies,20,"['West Indies', 'Australia']",field,West Indies
+869,"[datetime.date(2008, 6, 24)]",ODI,0,84,,Australia,50,"['West Indies', 'Australia']",field,West Indies
+871,"[datetime.date(2008, 6, 29)]",ODI,0,,7,Australia,50,"['West Indies', 'Australia']",field,Australia
+872,"[datetime.date(2008, 7, 4)]",ODI,0,1,,Australia,50,"['West Indies', 'Australia']",field,West Indies
+873,"[datetime.date(2008, 7, 6)]",ODI,0,169,,Australia,50,"['West Indies', 'Australia']",bat,Australia
+876,"[datetime.date(2008, 3, 9)]",ODI,0,,9,South Africa,50,"['Bangladesh', 'South Africa']",bat,Bangladesh
+877,"[datetime.date(2008, 3, 12)]",ODI,0,,7,South Africa,50,"['Bangladesh', 'South Africa']",bat,Bangladesh
+878,"[datetime.date(2008, 3, 14)]",ODI,0,,7,South Africa,50,"['Bangladesh', 'South Africa']",bat,Bangladesh
+885,"[datetime.date(2008, 1, 21)]",ODI,0,104,,Pakistan,50,"['Pakistan', 'Zimbabwe']",field,Zimbabwe
+886,"[datetime.date(2008, 1, 24)]",ODI,0,,5,Pakistan,50,"['Pakistan', 'Zimbabwe']",bat,Zimbabwe
+887,"[datetime.date(2008, 1, 27)]",ODI,0,37,,Pakistan,50,"['Pakistan', 'Zimbabwe']",bat,Pakistan
+888,"[datetime.date(2008, 1, 30)]",ODI,0,,7,Pakistan,50,"['Pakistan', 'Zimbabwe']",bat,Zimbabwe
+889,"[datetime.date(2008, 2, 2)]",ODI,0,,7,Pakistan,50,"['Pakistan', 'Zimbabwe']",bat,Zimbabwe
+895,"[datetime.date(2008, 6, 25)]",ODI,1,131,,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",field,Bangladesh
+898,"[datetime.date(2008, 6, 26)]",ODI,0,,6,India,50,"['Pakistan', 'India']",bat,Pakistan
+899,"[datetime.date(2008, 6, 28)]",ODI,1,,7,India,50,"['Bangladesh', 'India']",bat,Bangladesh
+900,"[datetime.date(2008, 6, 29)]",ODI,0,64,,Sri Lanka,50,"['Pakistan', 'Sri Lanka']",field,Pakistan
+901,"[datetime.date(2008, 6, 30)]",ODI,1,158,,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",bat,Sri Lanka
+902,"[datetime.date(2008, 7, 2)]",ODI,0,,8,Pakistan,50,"['Pakistan', 'India']",bat,India
+903,"[datetime.date(2008, 7, 3)]",ODI,1,,6,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+904,"[datetime.date(2008, 7, 4)]",ODI,0,,10,Pakistan,50,"['Pakistan', 'Bangladesh']",bat,Bangladesh
+905,"[datetime.date(2008, 7, 6)]",ODI,1,100,,Sri Lanka,50,"['India', 'Sri Lanka']",field,India
+964,"[datetime.date(2008, 8, 30)]",ODI,0,180,,Australia,50,"['Australia', 'Bangladesh']",field,Bangladesh
+965,"[datetime.date(2008, 9, 3)]",ODI,0,,8,Australia,50,"['Australia', 'Bangladesh']",bat,Bangladesh
+966,"[datetime.date(2008, 9, 6)]",ODI,0,73,,Australia,50,"['Australia', 'Bangladesh']",bat,Australia
+970,"[datetime.date(2008, 8, 18)]",ODI,0,,8,Sri Lanka,50,"['Sri Lanka', 'India']",bat,India
+971,"[datetime.date(2008, 8, 20)]",ODI,0,,3,India,50,"['Sri Lanka', 'India']",field,India
+972,"[datetime.date(2008, 8, 24)]",ODI,0,33,,India,50,"['Sri Lanka', 'India']",bat,India
+976,"[datetime.date(2008, 4, 13)]",ODI,0,23,,Pakistan,50,"['Pakistan', 'Bangladesh']",bat,Pakistan
+977,"[datetime.date(2008, 4, 16)]",ODI,0,,7,Pakistan,50,"['Pakistan', 'Bangladesh']",bat,Bangladesh
+978,"[datetime.date(2008, 4, 19)]",ODI,0,150,,Pakistan,50,"['Pakistan', 'Bangladesh']",bat,Pakistan
+979,"[datetime.date(2008, 4, 20)]",T20,0,102,,Pakistan,20,"['Pakistan', 'Bangladesh']",bat,Pakistan
+980,"[datetime.date(2008, 6, 8)]",ODI,0,70,,Pakistan,50,"['Bangladesh', 'Pakistan']",field,Bangladesh
+981,"[datetime.date(2008, 6, 10)]",ODI,1,140,,India,50,"['India', 'Pakistan']",bat,India
+982,"[datetime.date(2008, 6, 12)]",ODI,0,,7,India,50,"['Bangladesh', 'India']",bat,Bangladesh
+983,"[datetime.date(2008, 6, 14)]",ODI,1,25,,Pakistan,50,"['India', 'Pakistan']",bat,Pakistan
+993,"[datetime.date(2009, 9, 4)]",ODI,0,4,,Australia,50,"['England', 'Australia']",field,England
+994,"[datetime.date(2009, 9, 6)]",ODI,0,39,,Australia,50,"['England', 'Australia']",field,England
+995,"[datetime.date(2009, 9, 9)]",ODI,0,,6,Australia,50,"['England', 'Australia']",bat,England
+996,"[datetime.date(2009, 9, 12)]",ODI,0,,7,Australia,50,"['England', 'Australia']",bat,England
+997,"[datetime.date(2009, 9, 15)]",ODI,0,,4,Australia,50,"['England', 'Australia']",bat,England
+998,"[datetime.date(2009, 9, 17)]",ODI,0,111,,Australia,50,"['England', 'Australia']",bat,Australia
+999,"[datetime.date(2009, 9, 20)]",ODI,0,,4,England,50,"['England', 'Australia']",field,England
+1004,"[datetime.date(2008, 11, 7)]",ODI,0,61,,South Africa,50,"['South Africa', 'Bangladesh']",bat,South Africa
+1008,"[datetime.date(2009, 3, 27)]",T20,0,,4,South Africa,20,"['South Africa', 'Australia']",field,South Africa
+1009,"[datetime.date(2009, 3, 29)]",T20,0,17,,South Africa,20,"['South Africa', 'Australia']",field,Australia
+1010,"[datetime.date(2009, 4, 3)]",ODI,0,141,,Australia,50,"['South Africa', 'Australia']",bat,Australia
+1011,"[datetime.date(2009, 4, 5)]",ODI,0,,7,South Africa,50,"['South Africa', 'Australia']",bat,Australia
+1012,"[datetime.date(2009, 4, 9)]",ODI,0,25,,South Africa,50,"['South Africa', 'Australia']",bat,South Africa
+1013,"[datetime.date(2009, 4, 13)]",ODI,0,61,,South Africa,50,"['South Africa', 'Australia']",field,Australia
+1014,"[datetime.date(2009, 4, 17)]",ODI,0,47,,Australia,50,"['South Africa', 'Australia']",field,South Africa
+1020,"[datetime.date(2009, 1, 16)]",ODI,0,,3,South Africa,50,"['Australia', 'South Africa']",bat,Australia
+1021,"[datetime.date(2009, 1, 18)]",ODI,0,5,,Australia,50,"['Australia', 'South Africa']",field,South Africa
+1022,"[datetime.date(2009, 1, 23)]",ODI,0,,3,South Africa,50,"['Australia', 'South Africa']",bat,Australia
+1023,"[datetime.date(2009, 1, 26)]",ODI,0,,8,South Africa,50,"['Australia', 'South Africa']",bat,Australia
+1024,"[datetime.date(2009, 1, 30)]",ODI,0,39,,South Africa,50,"['Australia', 'South Africa']",bat,South Africa
+1025,"[datetime.date(2009, 2, 1)]",ODI,0,,2,New Zealand,50,"['Australia', 'New Zealand']",bat,Australia
+1026,"[datetime.date(2009, 2, 6)]",ODI,0,,6,New Zealand,50,"['Australia', 'New Zealand']",field,New Zealand
+1027,"[datetime.date(2009, 2, 8)]",ODI,0,32,,Australia,50,"['Australia', 'New Zealand']",field,New Zealand
+1028,"[datetime.date(2009, 2, 10)]",ODI,0,,6,Australia,50,"['Australia', 'New Zealand']",bat,New Zealand
+1030,"[datetime.date(2009, 1, 11)]",T20,0,52,,Australia,20,"['Australia', 'South Africa']",bat,Australia
+1031,"[datetime.date(2009, 1, 13)]",T20,0,,6,Australia,20,"['Australia', 'South Africa']",bat,South Africa
+1032,"[datetime.date(2009, 2, 15)]",T20,0,1,,Australia,20,"['Australia', 'New Zealand']",bat,Australia
+1038,"[datetime.date(2009, 3, 22)]",ODI,0,21,,West Indies,50,"['West Indies', 'England']",bat,West Indies
+1041,"[datetime.date(2009, 4, 3)]",ODI,0,26,,England,50,"['West Indies', 'England']",field,West Indies
+1042,"[datetime.date(2009, 3, 15)]",T20,0,,6,West Indies,20,"['West Indies', 'England']",field,West Indies
+1048,"[datetime.date(2009, 6, 6)]",T20,1,,7,West Indies,20,"['Australia', 'West Indies']",bat,Australia
+1049,"[datetime.date(2009, 6, 6)]",T20,1,25,,India,20,"['Bangladesh', 'India']",bat,India
+1051,"[datetime.date(2009, 6, 7)]",T20,0,48,,England,20,"['England', 'Pakistan']",field,Pakistan
+1053,"[datetime.date(2009, 6, 8)]",T20,1,,6,Sri Lanka,20,"['Australia', 'Sri Lanka']",field,Sri Lanka
+1055,"[datetime.date(2009, 6, 9)]",T20,1,1,,South Africa,20,"['New Zealand', 'South Africa']",field,New Zealand
+1057,"[datetime.date(2009, 6, 10)]",T20,1,15,,Sri Lanka,20,"['Sri Lanka', 'West Indies']",field,West Indies
+1059,"[datetime.date(2009, 6, 11)]",T20,0,,7,South Africa,20,"['England', 'South Africa']",bat,England
+1060,"[datetime.date(2009, 6, 12)]",T20,1,19,,Sri Lanka,20,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+1061,"[datetime.date(2009, 6, 12)]",T20,1,,7,West Indies,20,"['India', 'West Indies']",bat,India
+1062,"[datetime.date(2009, 6, 13)]",T20,1,20,,South Africa,20,"['South Africa', 'West Indies']",field,West Indies
+1063,"[datetime.date(2009, 6, 13)]",T20,1,,6,Pakistan,20,"['New Zealand', 'Pakistan']",bat,New Zealand
+1065,"[datetime.date(2009, 6, 14)]",T20,0,3,,England,20,"['England', 'India']",field,India
+1068,"[datetime.date(2009, 6, 16)]",T20,1,48,,Sri Lanka,20,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+1069,"[datetime.date(2009, 6, 16)]",T20,1,12,,South Africa,20,"['India', 'South Africa']",bat,South Africa
+1070,"[datetime.date(2009, 6, 18)]",T20,1,7,,Pakistan,20,"['Pakistan', 'South Africa']",bat,Pakistan
+1071,"[datetime.date(2009, 6, 19)]",T20,1,57,,Sri Lanka,20,"['Sri Lanka', 'West Indies']",field,West Indies
+1072,"[datetime.date(2009, 6, 21)]",T20,1,,8,Pakistan,20,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+1075,"[datetime.date(2008, 11, 14)]",ODI,0,158,,India,50,"['India', 'England']",field,England
+1076,"[datetime.date(2008, 11, 17)]",ODI,0,54,,India,50,"['India', 'England']",bat,India
+1079,"[datetime.date(2008, 11, 26)]",ODI,0,,6,India,50,"['India', 'England']",field,India
+1084,"[datetime.date(2008, 10, 11)]",T20,1,,3,Pakistan,20,"['Pakistan', 'Sri Lanka']",field,Pakistan
+1085,"[datetime.date(2008, 10, 13)]",T20,1,,5,Sri Lanka,20,"['Pakistan', 'Sri Lanka']",field,Sri Lanka
+1087,"[datetime.date(2008, 8, 27)]",ODI,0,46,,India,50,"['Sri Lanka', 'India']",bat,India
+1088,"[datetime.date(2009, 2, 27)]",T20,0,,5,New Zealand,20,"['New Zealand', 'India']",field,New Zealand
+1091,"[datetime.date(2009, 3, 14)]",ODI,0,,8,New Zealand,50,"['New Zealand', 'India']",bat,India
+1093,"[datetime.date(2009, 3, 8)]",ODI,0,58,,India,50,"['New Zealand', 'India']",field,New Zealand
+1097,"[datetime.date(2008, 12, 28)]",T20,0,36,,New Zealand,20,"['New Zealand', 'West Indies']",bat,New Zealand
+1099,"[datetime.date(2009, 1, 7)]",ODI,0,,7,New Zealand,50,"['New Zealand', 'West Indies']",field,New Zealand
+1100,"[datetime.date(2008, 11, 12)]",ODI,1,,4,Pakistan,50,"['Pakistan', 'West Indies']",bat,West Indies
+1101,"[datetime.date(2008, 11, 14)]",ODI,1,24,,Pakistan,50,"['Pakistan', 'West Indies']",bat,Pakistan
+1102,"[datetime.date(2008, 11, 20)]",ODI,0,,6,Sri Lanka,50,"['Zimbabwe', 'Sri Lanka']",field,Sri Lanka
+1103,"[datetime.date(2008, 11, 22)]",ODI,0,,9,Sri Lanka,50,"['Zimbabwe', 'Sri Lanka']",bat,Zimbabwe
+1104,"[datetime.date(2008, 11, 24)]",ODI,0,5,,Sri Lanka,50,"['Zimbabwe', 'Sri Lanka']",field,Zimbabwe
+1105,"[datetime.date(2008, 11, 30)]",ODI,0,19,,Sri Lanka,50,"['Zimbabwe', 'Sri Lanka']",field,Zimbabwe
+1106,"[datetime.date(2009, 6, 26)]",ODI,0,20,,India,50,"['West Indies', 'India']",bat,India
+1107,"[datetime.date(2009, 6, 28)]",ODI,0,,8,West Indies,50,"['West Indies', 'India']",bat,India
+1111,"[datetime.date(2009, 1, 10)]",ODI,0,38,,Zimbabwe,50,"['Bangladesh', 'Zimbabwe']",field,Bangladesh
+1112,"[datetime.date(2009, 1, 14)]",ODI,0,,5,Bangladesh,50,"['Bangladesh', 'Sri Lanka']",field,Bangladesh
+1113,"[datetime.date(2009, 1, 23)]",ODI,0,,6,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Bangladesh
+1116,"[datetime.date(2009, 5, 24)]",ODI,0,,6,England,50,"['England', 'West Indies']",field,England
+1117,"[datetime.date(2009, 5, 26)]",ODI,0,58,,England,50,"['England', 'West Indies']",field,West Indies
+1121,"[datetime.date(2009, 1, 20)]",ODI,0,,8,Pakistan,50,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+1122,"[datetime.date(2009, 1, 21)]",ODI,0,129,,Sri Lanka,50,"['Pakistan', 'Sri Lanka']",field,Pakistan
+1123,"[datetime.date(2009, 1, 24)]",ODI,0,234,,Sri Lanka,50,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+1124,"[datetime.date(2009, 2, 25)]",T20,0,,7,New Zealand,20,"['New Zealand', 'India']",field,New Zealand
+1126,"[datetime.date(2009, 1, 28)]",ODI,0,,6,India,50,"['Sri Lanka', 'India']",field,India
+1127,"[datetime.date(2009, 1, 31)]",ODI,0,15,,India,50,"['Sri Lanka', 'India']",bat,India
+1128,"[datetime.date(2009, 2, 3)]",ODI,0,147,,India,50,"['Sri Lanka', 'India']",bat,India
+1129,"[datetime.date(2009, 2, 5)]",ODI,0,67,,India,50,"['Sri Lanka', 'India']",bat,India
+1130,"[datetime.date(2009, 2, 8)]",ODI,0,68,,Sri Lanka,50,"['Sri Lanka', 'India']",bat,Sri Lanka
+1131,"[datetime.date(2009, 2, 10)]",T20,0,,3,India,20,"['Sri Lanka', 'India']",bat,Sri Lanka
+1133,"[datetime.date(2009, 11, 15)]",T20,0,84,,South Africa,20,"['South Africa', 'England']",bat,South Africa
+1134,"[datetime.date(2009, 11, 22)]",ODI,0,,7,England,50,"['South Africa', 'England']",field,England
+1135,"[datetime.date(2009, 11, 27)]",ODI,0,112,,South Africa,50,"['South Africa', 'England']",bat,South Africa
+1136,"[datetime.date(2009, 11, 29)]",ODI,0,,7,England,50,"['South Africa', 'England']",bat,South Africa
+1205,"[datetime.date(2009, 5, 7)]",T20,1,,7,Pakistan,20,"['Australia', 'Pakistan']",field,Pakistan
+1206,"[datetime.date(2009, 4, 22)]",ODI,1,,4,Pakistan,50,"['Australia', 'Pakistan']",bat,Australia
+1207,"[datetime.date(2009, 4, 24)]",ODI,1,,6,Australia,50,"['Australia', 'Pakistan']",bat,Pakistan
+1208,"[datetime.date(2009, 4, 27)]",ODI,1,27,,Australia,50,"['Australia', 'Pakistan']",bat,Australia
+1209,"[datetime.date(2009, 5, 1)]",ODI,1,,8,Australia,50,"['Australia', 'Pakistan']",bat,Pakistan
+1210,"[datetime.date(2009, 5, 3)]",ODI,1,,7,Pakistan,50,"['Australia', 'Pakistan']",bat,Australia
+1213,"[datetime.date(2009, 7, 26)]",ODI,0,52,,Bangladesh,50,"['West Indies', 'Bangladesh']",field,West Indies
+1214,"[datetime.date(2009, 7, 28)]",ODI,0,,3,Bangladesh,50,"['West Indies', 'Bangladesh']",bat,West Indies
+1215,"[datetime.date(2009, 7, 31)]",ODI,0,,3,Bangladesh,50,"['West Indies', 'Bangladesh']",bat,West Indies
+1216,"[datetime.date(2009, 8, 2)]",T20,0,,5,West Indies,20,"['West Indies', 'Bangladesh']",bat,Bangladesh
+1220,"[datetime.date(2009, 7, 30)]",ODI,0,36,,Sri Lanka,50,"['Sri Lanka', 'Pakistan']",field,Pakistan
+1221,"[datetime.date(2009, 8, 1)]",ODI,0,,6,Sri Lanka,50,"['Sri Lanka', 'Pakistan']",field,Sri Lanka
+1222,"[datetime.date(2009, 8, 3)]",ODI,0,,6,Sri Lanka,50,"['Sri Lanka', 'Pakistan']",field,Sri Lanka
+1223,"[datetime.date(2009, 8, 7)]",ODI,0,146,,Pakistan,50,"['Sri Lanka', 'Pakistan']",bat,Pakistan
+1224,"[datetime.date(2009, 8, 9)]",ODI,0,132,,Pakistan,50,"['Sri Lanka', 'Pakistan']",bat,Pakistan
+1225,"[datetime.date(2009, 8, 12)]",T20,0,52,,Pakistan,20,"['Sri Lanka', 'Pakistan']",bat,Pakistan
+1228,"[datetime.date(2009, 9, 8)]",ODI,0,97,,Sri Lanka,50,"['Sri Lanka', 'New Zealand']",bat,Sri Lanka
+1229,"[datetime.date(2009, 9, 12)]",ODI,0,139,,Sri Lanka,50,"['Sri Lanka', 'India']",bat,Sri Lanka
+1230,"[datetime.date(2009, 9, 11)]",ODI,1,,6,India,50,"['India', 'New Zealand']",bat,New Zealand
+1231,"[datetime.date(2009, 9, 14)]",ODI,0,46,,India,50,"['Sri Lanka', 'India']",bat,India
+1232,"[datetime.date(2009, 9, 2)]",T20,0,3,,New Zealand,20,"['Sri Lanka', 'New Zealand']",bat,New Zealand
+1233,"[datetime.date(2009, 9, 4)]",T20,0,22,,New Zealand,20,"['Sri Lanka', 'New Zealand']",bat,New Zealand
+1237,"[datetime.date(2010, 2, 7)]",ODI,0,113,,Australia,50,"['Australia', 'West Indies']",field,West Indies
+1238,"[datetime.date(2010, 2, 9)]",ODI,0,,8,Australia,50,"['Australia', 'West Indies']",bat,West Indies
+1240,"[datetime.date(2010, 2, 14)]",ODI,0,50,,Australia,50,"['Australia', 'West Indies']",field,West Indies
+1241,"[datetime.date(2010, 2, 19)]",ODI,0,125,,Australia,50,"['Australia', 'West Indies']",bat,Australia
+1242,"[datetime.date(2010, 2, 21)]",T20,0,38,,Australia,20,"['Australia', 'West Indies']",bat,Australia
+1243,"[datetime.date(2010, 2, 23)]",T20,0,,8,Australia,20,"['Australia', 'West Indies']",bat,West Indies
+1247,"[datetime.date(2010, 1, 22)]",ODI,0,,5,Australia,50,"['Australia', 'Pakistan']",bat,Pakistan
+1248,"[datetime.date(2010, 1, 24)]",ODI,0,140,,Australia,50,"['Australia', 'Pakistan']",field,Pakistan
+1249,"[datetime.date(2010, 1, 26)]",ODI,0,40,,Australia,50,"['Australia', 'Pakistan']",bat,Australia
+1250,"[datetime.date(2010, 1, 29)]",ODI,0,135,,Australia,50,"['Australia', 'Pakistan']",bat,Australia
+1251,"[datetime.date(2010, 1, 31)]",ODI,0,,2,Australia,50,"['Australia', 'Pakistan']",bat,Pakistan
+1252,"[datetime.date(2010, 2, 5)]",T20,0,2,,Australia,20,"['Australia', 'Pakistan']",bat,Australia
+1253,"[datetime.date(2009, 8, 9)]",ODI,0,,8,Bangladesh,50,"['Zimbabwe', 'Bangladesh']",field,Bangladesh
+1254,"[datetime.date(2009, 8, 11)]",ODI,0,49,,Bangladesh,50,"['Zimbabwe', 'Bangladesh']",field,Zimbabwe
+1255,"[datetime.date(2009, 8, 14)]",ODI,0,69,,Zimbabwe,50,"['Zimbabwe', 'Bangladesh']",field,Bangladesh
+1256,"[datetime.date(2009, 8, 16)]",ODI,0,,4,Bangladesh,50,"['Zimbabwe', 'Bangladesh']",bat,Zimbabwe
+1257,"[datetime.date(2009, 8, 18)]",ODI,0,,5,Bangladesh,50,"['Zimbabwe', 'Bangladesh']",bat,Zimbabwe
+1259,"[datetime.date(2010, 4, 30)]",T20,1,,2,New Zealand,20,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+1261,"[datetime.date(2010, 5, 1)]",T20,1,21,,Pakistan,20,"['Bangladesh', 'Pakistan']",bat,Pakistan
+1263,"[datetime.date(2010, 5, 2)]",T20,1,14,,India,20,"['India', 'South Africa']",field,South Africa
+1264,"[datetime.date(2010, 5, 2)]",T20,1,34,,Australia,20,"['Australia', 'Pakistan']",bat,Australia
+1269,"[datetime.date(2010, 5, 5)]",T20,1,27,,Australia,20,"['Australia', 'Bangladesh']",bat,Australia
+1270,"[datetime.date(2010, 5, 6)]",T20,1,,6,England,20,"['England', 'Pakistan']",field,England
+1271,"[datetime.date(2010, 5, 6)]",T20,1,13,,South Africa,20,"['New Zealand', 'South Africa']",bat,South Africa
+1272,"[datetime.date(2010, 5, 7)]",T20,1,49,,Australia,20,"['Australia', 'India']",field,India
+1273,"[datetime.date(2010, 5, 7)]",T20,0,57,,Sri Lanka,20,"['West Indies', 'Sri Lanka']",bat,Sri Lanka
+1274,"[datetime.date(2010, 5, 8)]",T20,1,1,,New Zealand,20,"['New Zealand', 'Pakistan']",field,Pakistan
+1275,"[datetime.date(2010, 5, 8)]",T20,1,39,,England,20,"['England', 'South Africa']",bat,England
+1276,"[datetime.date(2010, 5, 9)]",T20,0,14,,West Indies,20,"['West Indies', 'India']",field,India
+1277,"[datetime.date(2010, 5, 9)]",T20,1,81,,Australia,20,"['Australia', 'Sri Lanka']",bat,Australia
+1278,"[datetime.date(2010, 5, 10)]",T20,1,11,,Pakistan,20,"['Pakistan', 'South Africa']",bat,Pakistan
+1279,"[datetime.date(2010, 5, 10)]",T20,1,,3,England,20,"['England', 'New Zealand']",bat,New Zealand
+1280,"[datetime.date(2010, 5, 11)]",T20,1,,5,Sri Lanka,20,"['India', 'Sri Lanka']",bat,India
+1281,"[datetime.date(2010, 5, 11)]",T20,0,,6,Australia,20,"['West Indies', 'Australia']",bat,West Indies
+1282,"[datetime.date(2010, 5, 13)]",T20,1,,7,England,20,"['England', 'Sri Lanka']",bat,Sri Lanka
+1283,"[datetime.date(2010, 5, 14)]",T20,1,,3,Australia,20,"['Australia', 'Pakistan']",field,Australia
+1284,"[datetime.date(2010, 5, 16)]",T20,1,,7,England,20,"['Australia', 'England']",field,England
+1290,"[datetime.date(2009, 9, 23)]",ODI,1,,5,Pakistan,50,"['Pakistan', 'West Indies']",bat,West Indies
+1291,"[datetime.date(2009, 9, 24)]",ODI,0,,5,South Africa,50,"['South Africa', 'New Zealand']",field,South Africa
+1292,"[datetime.date(2009, 9, 25)]",ODI,1,,6,England,50,"['England', 'Sri Lanka']",field,England
+1293,"[datetime.date(2009, 9, 26)]",ODI,1,50,,Australia,50,"['Australia', 'West Indies']",field,West Indies
+1294,"[datetime.date(2009, 9, 26)]",ODI,1,54,,Pakistan,50,"['India', 'Pakistan']",bat,Pakistan
+1295,"[datetime.date(2009, 9, 27)]",ODI,1,38,,New Zealand,50,"['New Zealand', 'Sri Lanka']",field,Sri Lanka
+1296,"[datetime.date(2009, 9, 27)]",ODI,0,22,,England,50,"['South Africa', 'England']",bat,England
+1298,"[datetime.date(2009, 9, 29)]",ODI,1,,4,New Zealand,50,"['England', 'New Zealand']",field,New Zealand
+1299,"[datetime.date(2009, 9, 30)]",ODI,1,,2,Australia,50,"['Australia', 'Pakistan']",field,Australia
+1300,"[datetime.date(2009, 9, 30)]",ODI,1,,7,India,50,"['India', 'West Indies']",field,India
+1301,"[datetime.date(2009, 10, 2)]",ODI,1,,9,Australia,50,"['Australia', 'England']",bat,England
+1302,"[datetime.date(2009, 10, 3)]",ODI,1,,5,New Zealand,50,"['New Zealand', 'Pakistan']",bat,Pakistan
+1303,"[datetime.date(2009, 10, 5)]",ODI,1,,6,Australia,50,"['Australia', 'New Zealand']",bat,New Zealand
+1304,"[datetime.date(2009, 10, 25)]",ODI,0,4,,Australia,50,"['India', 'Australia']",bat,Australia
+1305,"[datetime.date(2009, 10, 28)]",ODI,0,99,,India,50,"['India', 'Australia']",field,Australia
+1306,"[datetime.date(2009, 10, 31)]",ODI,0,,6,India,50,"['India', 'Australia']",bat,Australia
+1307,"[datetime.date(2009, 11, 2)]",ODI,0,24,,Australia,50,"['India', 'Australia']",field,India
+1308,"[datetime.date(2009, 11, 5)]",ODI,0,3,,Australia,50,"['India', 'Australia']",bat,Australia
+1309,"[datetime.date(2009, 11, 8)]",ODI,0,,6,Australia,50,"['India', 'Australia']",bat,India
+1370,"[datetime.date(2009, 10, 27)]",ODI,0,,5,Zimbabwe,50,"['Bangladesh', 'Zimbabwe']",field,Zimbabwe
+1371,"[datetime.date(2009, 10, 29)]",ODI,0,,7,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",bat,Zimbabwe
+1372,"[datetime.date(2009, 10, 31)]",ODI,0,,4,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Bangladesh
+1373,"[datetime.date(2009, 11, 3)]",ODI,0,,6,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",bat,Zimbabwe
+1374,"[datetime.date(2009, 11, 5)]",ODI,0,,1,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Bangladesh
+1380,"[datetime.date(2010, 2, 3)]",T20,0,,10,New Zealand,20,"['New Zealand', 'Bangladesh']",bat,Bangladesh
+1381,"[datetime.date(2010, 2, 5)]",ODI,0,146,,New Zealand,50,"['New Zealand', 'Bangladesh']",bat,New Zealand
+1382,"[datetime.date(2010, 2, 8)]",ODI,0,,5,New Zealand,50,"['New Zealand', 'Bangladesh']",field,New Zealand
+1383,"[datetime.date(2010, 2, 11)]",ODI,0,,3,New Zealand,50,"['New Zealand', 'Bangladesh']",field,New Zealand
+1385,"[datetime.date(2010, 2, 26)]",T20,0,,6,Australia,20,"['New Zealand', 'Australia']",bat,New Zealand
+1389,"[datetime.date(2010, 3, 3)]",ODI,0,,2,New Zealand,50,"['New Zealand', 'Australia']",bat,Australia
+1391,"[datetime.date(2010, 3, 9)]",ODI,0,,6,Australia,50,"['New Zealand', 'Australia']",field,Australia
+1393,"[datetime.date(2010, 3, 13)]",ODI,0,51,,New Zealand,50,"['New Zealand', 'Australia']",field,Australia
+1395,"[datetime.date(2010, 6, 22)]",ODI,0,,4,England,50,"['England', 'Australia']",bat,Australia
+1396,"[datetime.date(2010, 6, 24)]",ODI,0,,4,England,50,"['England', 'Australia']",bat,Australia
+1397,"[datetime.date(2010, 6, 27)]",ODI,0,,1,England,50,"['England', 'Australia']",field,England
+1398,"[datetime.date(2010, 6, 30)]",ODI,0,78,,Australia,50,"['England', 'Australia']",field,England
+1399,"[datetime.date(2010, 7, 3)]",ODI,0,42,,Australia,50,"['England', 'Australia']",bat,Australia
+1400,"[datetime.date(2010, 7, 5)]",T20,1,23,,Pakistan,20,"['Australia', 'Pakistan']",bat,Pakistan
+1401,"[datetime.date(2010, 7, 6)]",T20,1,11,,Pakistan,20,"['Australia', 'Pakistan']",bat,Pakistan
+1406,"[datetime.date(2010, 7, 8)]",ODI,0,,6,England,50,"['England', 'Bangladesh']",bat,Bangladesh
+1407,"[datetime.date(2010, 7, 10)]",ODI,0,5,,Bangladesh,50,"['England', 'Bangladesh']",field,England
+1408,"[datetime.date(2010, 7, 12)]",ODI,0,144,,England,50,"['England', 'Bangladesh']",field,Bangladesh
+1413,"[datetime.date(2010, 9, 5)]",T20,0,,5,England,20,"['England', 'Pakistan']",field,England
+1414,"[datetime.date(2010, 9, 7)]",T20,0,,6,England,20,"['England', 'Pakistan']",bat,Pakistan
+1415,"[datetime.date(2010, 2, 28)]",ODI,0,,6,England,50,"['Bangladesh', 'England']",field,England
+1416,"[datetime.date(2010, 3, 2)]",ODI,0,,2,England,50,"['Bangladesh', 'England']",field,England
+1417,"[datetime.date(2010, 3, 5)]",ODI,0,45,,England,50,"['Bangladesh', 'England']",field,Bangladesh
+1420,"[datetime.date(2010, 9, 10)]",ODI,0,24,,England,50,"['England', 'Pakistan']",field,Pakistan
+1421,"[datetime.date(2010, 9, 12)]",ODI,0,,4,England,50,"['England', 'Pakistan']",bat,Pakistan
+1422,"[datetime.date(2010, 9, 17)]",ODI,0,23,,Pakistan,50,"['England', 'Pakistan']",bat,Pakistan
+1423,"[datetime.date(2010, 9, 20)]",ODI,0,38,,Pakistan,50,"['England', 'Pakistan']",bat,Pakistan
+1424,"[datetime.date(2010, 9, 22)]",ODI,0,121,,England,50,"['England', 'Pakistan']",bat,England
+1425,"[datetime.date(2009, 11, 3)]",ODI,1,138,,Pakistan,50,"['New Zealand', 'Pakistan']",bat,Pakistan
+1426,"[datetime.date(2009, 11, 6)]",ODI,1,64,,New Zealand,50,"['New Zealand', 'Pakistan']",bat,New Zealand
+1427,"[datetime.date(2009, 11, 9)]",ODI,1,7,,New Zealand,50,"['New Zealand', 'Pakistan']",bat,New Zealand
+1428,"[datetime.date(2009, 11, 12)]",T20,1,49,,Pakistan,20,"['New Zealand', 'Pakistan']",field,New Zealand
+1429,"[datetime.date(2009, 11, 13)]",T20,1,7,,Pakistan,20,"['New Zealand', 'Pakistan']",bat,Pakistan
+1435,"[datetime.date(2009, 11, 8)]",ODI,0,45,,South Africa,50,"['South Africa', 'Zimbabwe']",field,Zimbabwe
+1436,"[datetime.date(2009, 11, 10)]",ODI,0,212,,South Africa,50,"['South Africa', 'Zimbabwe']",field,Zimbabwe
+1440,"[datetime.date(2009, 12, 9)]",T20,0,29,,Sri Lanka,20,"['India', 'Sri Lanka']",field,India
+1441,"[datetime.date(2009, 12, 12)]",T20,0,,6,India,20,"['India', 'Sri Lanka']",bat,Sri Lanka
+1442,"[datetime.date(2009, 12, 15)]",ODI,0,3,,India,50,"['India', 'Sri Lanka']",field,Sri Lanka
+1443,"[datetime.date(2009, 12, 18)]",ODI,0,,3,Sri Lanka,50,"['India', 'Sri Lanka']",bat,India
+1444,"[datetime.date(2009, 12, 21)]",ODI,0,,7,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+1445,"[datetime.date(2009, 12, 24)]",ODI,0,,7,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+1447,"[datetime.date(2011, 2, 19)]",ODI,0,87,,India,50,"['Bangladesh', 'India']",field,Bangladesh
+1450,"[datetime.date(2011, 2, 21)]",ODI,1,91,,Australia,50,"['Australia', 'Zimbabwe']",bat,Australia
+1453,"[datetime.date(2011, 2, 24)]",ODI,1,,7,South Africa,50,"['South Africa', 'West Indies']",field,South Africa
+1454,"[datetime.date(2011, 2, 25)]",ODI,1,,7,Australia,50,"['Australia', 'New Zealand']",field,Australia
+1456,"[datetime.date(2011, 2, 26)]",ODI,0,11,,Pakistan,50,"['Sri Lanka', 'Pakistan']",bat,Pakistan
+1464,"[datetime.date(2011, 3, 4)]",ODI,1,,10,New Zealand,50,"['New Zealand', 'Zimbabwe']",bat,Zimbabwe
+1465,"[datetime.date(2011, 3, 4)]",ODI,0,,9,West Indies,50,"['Bangladesh', 'West Indies']",bat,Bangladesh
+1468,"[datetime.date(2011, 3, 6)]",ODI,1,6,,England,50,"['England', 'South Africa']",bat,England
+1470,"[datetime.date(2011, 3, 8)]",ODI,1,110,,New Zealand,50,"['New Zealand', 'Pakistan']",bat,New Zealand
+1472,"[datetime.date(2011, 3, 10)]",ODI,0,139,,Sri Lanka,50,"['Sri Lanka', 'Zimbabwe']",field,Zimbabwe
+1474,"[datetime.date(2011, 3, 11)]",ODI,0,,2,Bangladesh,50,"['Bangladesh', 'England']",field,Bangladesh
+1475,"[datetime.date(2011, 3, 12)]",ODI,0,,3,South Africa,50,"['India', 'South Africa']",bat,India
+1482,"[datetime.date(2011, 3, 17)]",ODI,1,18,,England,50,"['England', 'West Indies']",bat,England
+1483,"[datetime.date(2011, 3, 18)]",ODI,1,112,,Sri Lanka,50,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+1485,"[datetime.date(2011, 3, 19)]",ODI,1,,4,Pakistan,50,"['Australia', 'Pakistan']",bat,Australia
+1486,"[datetime.date(2011, 3, 19)]",ODI,0,206,,South Africa,50,"['Bangladesh', 'South Africa']",bat,South Africa
+1488,"[datetime.date(2011, 3, 20)]",ODI,0,80,,India,50,"['India', 'West Indies']",bat,India
+1489,"[datetime.date(2011, 3, 23)]",ODI,1,,10,Pakistan,50,"['Pakistan', 'West Indies']",bat,West Indies
+1490,"[datetime.date(2011, 3, 24)]",ODI,0,,5,India,50,"['India', 'Australia']",bat,Australia
+1491,"[datetime.date(2011, 3, 25)]",ODI,1,49,,New Zealand,50,"['New Zealand', 'South Africa']",bat,New Zealand
+1492,"[datetime.date(2011, 3, 26)]",ODI,0,,10,Sri Lanka,50,"['Sri Lanka', 'England']",bat,England
+1493,"[datetime.date(2011, 3, 29)]",ODI,0,,5,Sri Lanka,50,"['Sri Lanka', 'New Zealand']",bat,New Zealand
+1494,"[datetime.date(2011, 3, 30)]",ODI,0,29,,India,50,"['India', 'Pakistan']",bat,India
+1495,"[datetime.date(2011, 4, 2)]",ODI,0,,6,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+1498,"[datetime.date(2010, 1, 4)]",ODI,0,,7,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",field,Sri Lanka
+1499,"[datetime.date(2010, 1, 5)]",ODI,1,,5,Sri Lanka,50,"['India', 'Sri Lanka']",field,Sri Lanka
+1500,"[datetime.date(2010, 1, 7)]",ODI,0,,6,India,50,"['Bangladesh', 'India']",bat,Bangladesh
+1501,"[datetime.date(2010, 1, 8)]",ODI,0,,9,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",field,Sri Lanka
+1502,"[datetime.date(2010, 1, 10)]",ODI,1,,8,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+1503,"[datetime.date(2010, 1, 11)]",ODI,0,,6,India,50,"['Bangladesh', 'India']",field,India
+1504,"[datetime.date(2010, 1, 13)]",ODI,1,,4,Sri Lanka,50,"['India', 'Sri Lanka']",field,Sri Lanka
+1505,"[datetime.date(2010, 2, 28)]",T20,0,26,,Zimbabwe,20,"['West Indies', 'Zimbabwe']",bat,Zimbabwe
+1506,"[datetime.date(2010, 3, 4)]",ODI,0,2,,Zimbabwe,50,"['West Indies', 'Zimbabwe']",bat,Zimbabwe
+1507,"[datetime.date(2010, 3, 6)]",ODI,0,,4,West Indies,50,"['West Indies', 'Zimbabwe']",bat,Zimbabwe
+1508,"[datetime.date(2010, 3, 10)]",ODI,0,141,,West Indies,50,"['West Indies', 'Zimbabwe']",field,Zimbabwe
+1509,"[datetime.date(2010, 3, 12)]",ODI,0,,4,West Indies,50,"['West Indies', 'Zimbabwe']",field,West Indies
+1510,"[datetime.date(2010, 3, 14)]",ODI,0,,4,West Indies,50,"['West Indies', 'Zimbabwe']",field,West Indies
+1511,"[datetime.date(2010, 5, 19)]",T20,0,13,,South Africa,20,"['West Indies', 'South Africa']",field,West Indies
+1513,"[datetime.date(2010, 5, 24)]",ODI,0,17,,South Africa,50,"['West Indies', 'South Africa']",bat,South Africa
+1514,"[datetime.date(2010, 5, 28)]",ODI,0,67,,South Africa,50,"['West Indies', 'South Africa']",bat,South Africa
+1515,"[datetime.date(2010, 5, 30)]",ODI,0,,7,South Africa,50,"['West Indies', 'South Africa']",bat,West Indies
+1516,"[datetime.date(2010, 6, 3)]",ODI,0,,1,South Africa,50,"['West Indies', 'South Africa']",bat,West Indies
+1527,"[datetime.date(2010, 2, 19)]",T20,1,,7,England,20,"['England', 'Pakistan']",bat,Pakistan
+1528,"[datetime.date(2010, 2, 20)]",T20,1,,4,Pakistan,20,"['England', 'Pakistan']",field,Pakistan
+1531,"[datetime.date(2010, 2, 21)]",ODI,0,1,,India,50,"['India', 'South Africa']",field,South Africa
+1532,"[datetime.date(2010, 2, 24)]",ODI,0,153,,India,50,"['India', 'South Africa']",bat,India
+1533,"[datetime.date(2010, 2, 27)]",ODI,0,90,,South Africa,50,"['India', 'South Africa']",bat,South Africa
+1534,"[datetime.date(2010, 10, 31)]",T20,0,,7,Sri Lanka,20,"['Australia', 'Sri Lanka']",bat,Australia
+1535,"[datetime.date(2010, 11, 3)]",ODI,0,,1,Sri Lanka,50,"['Australia', 'Sri Lanka']",bat,Australia
+1537,"[datetime.date(2010, 11, 7)]",ODI,0,,8,Australia,50,"['Australia', 'Sri Lanka']",bat,Sri Lanka
+1538,"[datetime.date(2011, 1, 12)]",T20,0,,1,England,20,"['Australia', 'England']",bat,Australia
+1539,"[datetime.date(2011, 1, 14)]",T20,0,4,,Australia,20,"['Australia', 'England']",bat,Australia
+1540,"[datetime.date(2011, 1, 16)]",ODI,0,,6,Australia,50,"['Australia', 'England']",bat,England
+1541,"[datetime.date(2011, 1, 21)]",ODI,0,46,,Australia,50,"['Australia', 'England']",field,England
+1542,"[datetime.date(2011, 1, 23)]",ODI,0,,4,Australia,50,"['Australia', 'England']",bat,England
+1543,"[datetime.date(2011, 1, 26)]",ODI,0,21,,England,50,"['Australia', 'England']",bat,England
+1544,"[datetime.date(2011, 1, 30)]",ODI,0,51,,Australia,50,"['Australia', 'England']",bat,Australia
+1545,"[datetime.date(2011, 2, 2)]",ODI,0,,2,Australia,50,"['Australia', 'England']",bat,England
+1546,"[datetime.date(2011, 2, 6)]",ODI,0,57,,Australia,50,"['Australia', 'England']",bat,Australia
+1547,"[datetime.date(2010, 5, 20)]",T20,0,1,,South Africa,20,"['West Indies', 'South Africa']",field,West Indies
+1552,"[datetime.date(2010, 5, 28)]",ODI,0,,6,Zimbabwe,50,"['Zimbabwe', 'India']",bat,India
+1553,"[datetime.date(2010, 5, 30)]",ODI,1,,7,India,50,"['India', 'Sri Lanka']",field,India
+1554,"[datetime.date(2010, 6, 1)]",ODI,0,,9,Sri Lanka,50,"['Zimbabwe', 'Sri Lanka']",field,Sri Lanka
+1555,"[datetime.date(2010, 6, 3)]",ODI,0,,7,Zimbabwe,50,"['Zimbabwe', 'India']",field,Zimbabwe
+1556,"[datetime.date(2010, 6, 5)]",ODI,1,,6,Sri Lanka,50,"['India', 'Sri Lanka']",field,Sri Lanka
+1557,"[datetime.date(2010, 6, 7)]",ODI,0,,8,Zimbabwe,50,"['Zimbabwe', 'Sri Lanka']",field,Zimbabwe
+1558,"[datetime.date(2010, 6, 9)]",ODI,0,,9,Sri Lanka,50,"['Zimbabwe', 'Sri Lanka']",field,Sri Lanka
+1559,"[datetime.date(2010, 6, 12)]",T20,0,,6,India,20,"['Zimbabwe', 'India']",field,India
+1560,"[datetime.date(2010, 6, 13)]",T20,0,,7,India,20,"['Zimbabwe', 'India']",field,India
+1561,"[datetime.date(2010, 6, 15)]",ODI,0,16,,Sri Lanka,50,"['Sri Lanka', 'Pakistan']",bat,Sri Lanka
+1562,"[datetime.date(2010, 6, 16)]",ODI,1,,6,India,50,"['Bangladesh', 'India']",bat,Bangladesh
+1563,"[datetime.date(2010, 6, 18)]",ODI,0,126,,Sri Lanka,50,"['Sri Lanka', 'Bangladesh']",bat,Sri Lanka
+1564,"[datetime.date(2010, 6, 19)]",ODI,1,,3,India,50,"['India', 'Pakistan']",bat,Pakistan
+1565,"[datetime.date(2010, 6, 21)]",ODI,1,139,,Pakistan,50,"['Bangladesh', 'Pakistan']",bat,Pakistan
+1566,"[datetime.date(2010, 6, 22)]",ODI,0,,7,Sri Lanka,50,"['Sri Lanka', 'India']",field,Sri Lanka
+1567,"[datetime.date(2010, 6, 24)]",ODI,0,81,,India,50,"['Sri Lanka', 'India']",bat,India
+1568,"[datetime.date(2010, 8, 10)]",ODI,1,200,,New Zealand,50,"['India', 'New Zealand']",bat,New Zealand
+1569,"[datetime.date(2010, 8, 16)]",ODI,0,,6,India,50,"['Sri Lanka', 'India']",bat,Sri Lanka
+1570,"[datetime.date(2010, 8, 13)]",ODI,0,,3,Sri Lanka,50,"['Sri Lanka', 'New Zealand']",bat,New Zealand
+1571,"[datetime.date(2010, 8, 25)]",ODI,1,105,,India,50,"['India', 'New Zealand']",bat,India
+1572,"[datetime.date(2010, 8, 22)]",ODI,0,,8,Sri Lanka,50,"['Sri Lanka', 'India']",bat,India
+1573,"[datetime.date(2010, 8, 28)]",ODI,0,74,,Sri Lanka,50,"['Sri Lanka', 'India']",bat,Sri Lanka
+1577,"[datetime.date(2010, 5, 22)]",T20,1,28,,New Zealand,20,"['New Zealand', 'Sri Lanka']",bat,New Zealand
+1578,"[datetime.date(2010, 5, 23)]",T20,1,,7,Sri Lanka,20,"['New Zealand', 'Sri Lanka']",bat,New Zealand
+1579,"[datetime.date(2010, 10, 27)]",T20,1,,6,South Africa,20,"['Pakistan', 'South Africa']",bat,Pakistan
+1580,"[datetime.date(2010, 10, 29)]",ODI,1,,8,South Africa,50,"['Pakistan', 'South Africa']",bat,Pakistan
+1581,"[datetime.date(2010, 10, 31)]",ODI,1,,1,Pakistan,50,"['Pakistan', 'South Africa']",bat,South Africa
+1582,"[datetime.date(2010, 11, 2)]",ODI,1,2,,South Africa,50,"['Pakistan', 'South Africa']",field,Pakistan
+1583,"[datetime.date(2010, 11, 5)]",ODI,1,,1,Pakistan,50,"['Pakistan', 'South Africa']",bat,South Africa
+1584,"[datetime.date(2010, 11, 8)]",ODI,1,57,,South Africa,50,"['Pakistan', 'South Africa']",bat,South Africa
+1587,"[datetime.date(2010, 10, 8)]",T20,0,,7,South Africa,20,"['South Africa', 'Zimbabwe']",bat,Zimbabwe
+1588,"[datetime.date(2010, 10, 10)]",T20,0,8,,South Africa,20,"['South Africa', 'Zimbabwe']",bat,South Africa
+1589,"[datetime.date(2010, 10, 15)]",ODI,0,64,,South Africa,50,"['South Africa', 'Zimbabwe']",bat,South Africa
+1590,"[datetime.date(2010, 10, 17)]",ODI,0,,8,South Africa,50,"['South Africa', 'Zimbabwe']",bat,Zimbabwe
+1591,"[datetime.date(2010, 10, 22)]",ODI,0,272,,South Africa,50,"['South Africa', 'Zimbabwe']",bat,South Africa
+1595,"[datetime.date(2011, 1, 9)]",T20,0,21,,India,20,"['South Africa', 'India']",bat,India
+1596,"[datetime.date(2011, 1, 12)]",ODI,0,135,,South Africa,50,"['South Africa', 'India']",bat,South Africa
+1597,"[datetime.date(2011, 1, 15)]",ODI,0,1,,India,50,"['South Africa', 'India']",bat,India
+1598,"[datetime.date(2011, 1, 18)]",ODI,0,,2,India,50,"['South Africa', 'India']",bat,South Africa
+1603,"[datetime.date(2010, 10, 20)]",ODI,0,,5,India,50,"['India', 'Australia']",field,India
+1614,"[datetime.date(2011, 2, 6)]",ODI,0,26,,Sri Lanka,50,"['Sri Lanka', 'West Indies']",field,West Indies
+1624,"[datetime.date(2010, 11, 28)]",ODI,0,40,,India,50,"['India', 'New Zealand']",field,New Zealand
+1625,"[datetime.date(2010, 12, 1)]",ODI,0,,8,India,50,"['India', 'New Zealand']",field,India
+1626,"[datetime.date(2010, 12, 4)]",ODI,0,,9,India,50,"['India', 'New Zealand']",field,India
+1627,"[datetime.date(2010, 12, 7)]",ODI,0,,5,India,50,"['India', 'New Zealand']",field,India
+1628,"[datetime.date(2010, 12, 10)]",ODI,0,,8,India,50,"['India', 'New Zealand']",bat,New Zealand
+1631,"[datetime.date(2010, 12, 26)]",T20,0,,5,New Zealand,20,"['New Zealand', 'Pakistan']",field,New Zealand
+1632,"[datetime.date(2010, 12, 28)]",T20,0,39,,New Zealand,20,"['New Zealand', 'Pakistan']",field,Pakistan
+1633,"[datetime.date(2010, 12, 30)]",T20,0,103,,Pakistan,20,"['New Zealand', 'Pakistan']",bat,Pakistan
+1636,"[datetime.date(2011, 1, 22)]",ODI,0,,9,New Zealand,50,"['New Zealand', 'Pakistan']",bat,Pakistan
+1638,"[datetime.date(2011, 1, 29)]",ODI,0,43,,Pakistan,50,"['New Zealand', 'Pakistan']",field,New Zealand
+1639,"[datetime.date(2011, 2, 1)]",ODI,0,,2,Pakistan,50,"['New Zealand', 'Pakistan']",bat,New Zealand
+1640,"[datetime.date(2011, 2, 3)]",ODI,0,41,,Pakistan,50,"['New Zealand', 'Pakistan']",field,New Zealand
+1641,"[datetime.date(2011, 2, 5)]",ODI,0,57,,New Zealand,50,"['New Zealand', 'Pakistan']",field,Pakistan
+1645,"[datetime.date(2011, 6, 25)]",T20,0,,9,Sri Lanka,20,"['England', 'Sri Lanka']",field,Sri Lanka
+1647,"[datetime.date(2011, 7, 1)]",ODI,0,69,,Sri Lanka,50,"['England', 'Sri Lanka']",field,England
+1648,"[datetime.date(2011, 7, 3)]",ODI,0,,6,Sri Lanka,50,"['England', 'Sri Lanka']",bat,England
+1650,"[datetime.date(2011, 7, 9)]",ODI,0,16,,England,50,"['England', 'Sri Lanka']",bat,England
+1655,"[datetime.date(2011, 8, 31)]",T20,0,,6,England,20,"['England', 'India']",bat,India
+1657,"[datetime.date(2011, 9, 6)]",ODI,0,,7,England,50,"['England', 'India']",field,England
+1662,"[datetime.date(2010, 10, 11)]",ODI,0,,7,Bangladesh,50,"['Bangladesh', 'New Zealand']",field,Bangladesh
+1663,"[datetime.date(2010, 10, 14)]",ODI,0,9,,Bangladesh,50,"['Bangladesh', 'New Zealand']",field,New Zealand
+1664,"[datetime.date(2010, 10, 17)]",ODI,0,3,,Bangladesh,50,"['Bangladesh', 'New Zealand']",bat,Bangladesh
+1666,"[datetime.date(2010, 10, 26)]",T20,1,,6,South Africa,20,"['Pakistan', 'South Africa']",bat,Pakistan
+1668,"[datetime.date(2010, 12, 1)]",ODI,0,9,,Zimbabwe,50,"['Bangladesh', 'Zimbabwe']",field,Bangladesh
+1669,"[datetime.date(2010, 12, 3)]",ODI,0,,6,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Bangladesh
+1670,"[datetime.date(2010, 12, 6)]",ODI,0,65,,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Zimbabwe
+1671,"[datetime.date(2010, 12, 12)]",ODI,0,,6,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",bat,Zimbabwe
+1672,"[datetime.date(2011, 4, 21)]",T20,0,7,,West Indies,20,"['West Indies', 'Pakistan']",bat,West Indies
+1673,"[datetime.date(2011, 4, 23)]",ODI,0,,8,Pakistan,50,"['West Indies', 'Pakistan']",bat,West Indies
+1674,"[datetime.date(2011, 4, 25)]",ODI,0,,7,Pakistan,50,"['West Indies', 'Pakistan']",field,Pakistan
+1675,"[datetime.date(2011, 4, 28)]",ODI,0,,3,Pakistan,50,"['West Indies', 'Pakistan']",field,Pakistan
+1677,"[datetime.date(2011, 5, 5)]",ODI,0,,10,West Indies,50,"['West Indies', 'Pakistan']",bat,Pakistan
+1680,"[datetime.date(2011, 6, 4)]",T20,0,16,,India,20,"['West Indies', 'India']",field,West Indies
+1681,"[datetime.date(2011, 6, 6)]",ODI,0,,4,India,50,"['West Indies', 'India']",bat,West Indies
+1683,"[datetime.date(2011, 6, 11)]",ODI,0,,3,India,50,"['West Indies', 'India']",field,India
+1684,"[datetime.date(2011, 6, 13)]",ODI,0,103,,West Indies,50,"['West Indies', 'India']",field,India
+1685,"[datetime.date(2011, 6, 16)]",ODI,0,,7,West Indies,50,"['West Indies', 'India']",field,West Indies
+1763,"[datetime.date(2011, 4, 9)]",ODI,0,60,,Australia,50,"['Bangladesh', 'Australia']",field,Bangladesh
+1764,"[datetime.date(2011, 4, 11)]",ODI,0,,9,Australia,50,"['Bangladesh', 'Australia']",bat,Bangladesh
+1765,"[datetime.date(2011, 4, 13)]",ODI,0,66,,Australia,50,"['Bangladesh', 'Australia']",bat,Australia
+1767,"[datetime.date(2011, 10, 13)]",T20,0,,5,Australia,20,"['South Africa', 'Australia']",bat,South Africa
+1768,"[datetime.date(2011, 10, 16)]",T20,0,,3,South Africa,20,"['South Africa', 'Australia']",bat,Australia
+1770,"[datetime.date(2011, 10, 23)]",ODI,0,80,,South Africa,50,"['South Africa', 'Australia']",bat,South Africa
+1771,"[datetime.date(2011, 10, 28)]",ODI,0,,3,Australia,50,"['South Africa', 'Australia']",bat,South Africa
+1777,"[datetime.date(2012, 1, 11)]",ODI,0,258,,South Africa,50,"['South Africa', 'Sri Lanka']",bat,South Africa
+1778,"[datetime.date(2012, 1, 14)]",ODI,0,,5,South Africa,50,"['South Africa', 'Sri Lanka']",field,South Africa
+1780,"[datetime.date(2012, 1, 20)]",ODI,0,,5,Sri Lanka,50,"['South Africa', 'Sri Lanka']",bat,South Africa
+1781,"[datetime.date(2012, 1, 22)]",ODI,0,,2,Sri Lanka,50,"['South Africa', 'Sri Lanka']",field,Sri Lanka
+1782,"[datetime.date(2011, 8, 6)]",T20,0,35,,Sri Lanka,20,"['Sri Lanka', 'Australia']",field,Australia
+1783,"[datetime.date(2011, 8, 8)]",T20,0,8,,Sri Lanka,20,"['Sri Lanka', 'Australia']",bat,Sri Lanka
+1784,"[datetime.date(2011, 8, 10)]",ODI,0,,7,Australia,50,"['Sri Lanka', 'Australia']",bat,Sri Lanka
+1785,"[datetime.date(2011, 8, 14)]",ODI,0,,8,Australia,50,"['Sri Lanka', 'Australia']",bat,Sri Lanka
+1786,"[datetime.date(2011, 8, 16)]",ODI,0,78,,Sri Lanka,50,"['Sri Lanka', 'Australia']",field,Australia
+1787,"[datetime.date(2011, 8, 20)]",ODI,0,,5,Australia,50,"['Sri Lanka', 'Australia']",bat,Sri Lanka
+1788,"[datetime.date(2011, 8, 22)]",ODI,0,,4,Sri Lanka,50,"['Sri Lanka', 'Australia']",field,Sri Lanka
+1798,"[datetime.date(2012, 2, 1)]",T20,0,31,,Australia,20,"['Australia', 'India']",field,India
+1799,"[datetime.date(2012, 2, 3)]",T20,0,,8,India,20,"['Australia', 'India']",bat,Australia
+1801,"[datetime.date(2012, 2, 8)]",ODI,1,,4,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+1802,"[datetime.date(2012, 2, 10)]",ODI,0,5,,Australia,50,"['Australia', 'Sri Lanka']",field,Sri Lanka
+1803,"[datetime.date(2012, 2, 12)]",ODI,0,,4,India,50,"['Australia', 'India']",bat,Australia
+1806,"[datetime.date(2012, 2, 19)]",ODI,0,110,,Australia,50,"['Australia', 'India']",bat,Australia
+1807,"[datetime.date(2012, 2, 21)]",ODI,1,51,,Sri Lanka,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+1808,"[datetime.date(2012, 2, 24)]",ODI,0,,3,Sri Lanka,50,"['Australia', 'Sri Lanka']",bat,Australia
+1809,"[datetime.date(2012, 2, 26)]",ODI,0,87,,Australia,50,"['Australia', 'India']",bat,Australia
+1810,"[datetime.date(2012, 2, 28)]",ODI,1,,7,India,50,"['India', 'Sri Lanka']",field,India
+1811,"[datetime.date(2012, 3, 2)]",ODI,0,9,,Sri Lanka,50,"['Australia', 'Sri Lanka']",bat,Sri Lanka
+1812,"[datetime.date(2012, 3, 4)]",ODI,0,15,,Australia,50,"['Australia', 'Sri Lanka']",bat,Australia
+1813,"[datetime.date(2012, 3, 6)]",ODI,0,,8,Sri Lanka,50,"['Australia', 'Sri Lanka']",bat,Australia
+1814,"[datetime.date(2012, 3, 8)]",ODI,0,16,,Australia,50,"['Australia', 'Sri Lanka']",field,Sri Lanka
+1816,"[datetime.date(2012, 2, 3)]",ODI,0,90,,New Zealand,50,"['New Zealand', 'Zimbabwe']",field,Zimbabwe
+1817,"[datetime.date(2012, 2, 6)]",ODI,0,141,,New Zealand,50,"['New Zealand', 'Zimbabwe']",field,Zimbabwe
+1818,"[datetime.date(2012, 2, 9)]",ODI,0,202,,New Zealand,50,"['New Zealand', 'Zimbabwe']",bat,New Zealand
+1819,"[datetime.date(2012, 2, 11)]",T20,0,,7,New Zealand,20,"['New Zealand', 'Zimbabwe']",bat,Zimbabwe
+1820,"[datetime.date(2012, 2, 14)]",T20,0,,5,New Zealand,20,"['New Zealand', 'Zimbabwe']",bat,Zimbabwe
+1821,"[datetime.date(2012, 2, 17)]",T20,0,,6,New Zealand,20,"['New Zealand', 'South Africa']",field,New Zealand
+1822,"[datetime.date(2012, 2, 19)]",T20,0,,8,South Africa,20,"['New Zealand', 'South Africa']",field,South Africa
+1823,"[datetime.date(2012, 2, 22)]",T20,0,3,,South Africa,20,"['New Zealand', 'South Africa']",field,New Zealand
+1824,"[datetime.date(2012, 2, 25)]",ODI,0,,6,South Africa,50,"['New Zealand', 'South Africa']",bat,New Zealand
+1825,"[datetime.date(2012, 2, 29)]",ODI,0,,6,South Africa,50,"['New Zealand', 'South Africa']",field,South Africa
+1826,"[datetime.date(2012, 3, 3)]",ODI,0,,5,South Africa,50,"['New Zealand', 'South Africa']",field,South Africa
+1830,"[datetime.date(2011, 10, 29)]",T20,0,,6,England,20,"['India', 'England']",bat,India
+1831,"[datetime.date(2011, 10, 14)]",ODI,0,126,,India,50,"['India', 'England']",bat,India
+1832,"[datetime.date(2011, 10, 17)]",ODI,0,,8,India,50,"['India', 'England']",bat,England
+1833,"[datetime.date(2011, 10, 20)]",ODI,0,,5,India,50,"['India', 'England']",bat,England
+1834,"[datetime.date(2011, 10, 23)]",ODI,0,,6,India,50,"['India', 'England']",bat,England
+1835,"[datetime.date(2011, 10, 25)]",ODI,0,95,,India,50,"['India', 'England']",field,England
+1839,"[datetime.date(2011, 8, 12)]",ODI,0,,4,Zimbabwe,50,"['Zimbabwe', 'Bangladesh']",field,Zimbabwe
+1840,"[datetime.date(2011, 8, 14)]",ODI,0,,7,Zimbabwe,50,"['Zimbabwe', 'Bangladesh']",field,Zimbabwe
+1841,"[datetime.date(2011, 8, 16)]",ODI,0,5,,Zimbabwe,50,"['Zimbabwe', 'Bangladesh']",field,Bangladesh
+1842,"[datetime.date(2011, 8, 19)]",ODI,0,,6,Bangladesh,50,"['Zimbabwe', 'Bangladesh']",field,Bangladesh
+1843,"[datetime.date(2011, 8, 21)]",ODI,0,93,,Bangladesh,50,"['Zimbabwe', 'Bangladesh']",field,Zimbabwe
+1845,"[datetime.date(2011, 9, 8)]",ODI,0,5,,Pakistan,50,"['Zimbabwe', 'Pakistan']",bat,Pakistan
+1846,"[datetime.date(2011, 9, 11)]",ODI,0,,10,Pakistan,50,"['Zimbabwe', 'Pakistan']",bat,Zimbabwe
+1847,"[datetime.date(2011, 9, 14)]",ODI,0,28,,Pakistan,50,"['Zimbabwe', 'Pakistan']",field,Zimbabwe
+1848,"[datetime.date(2011, 9, 16)]",T20,0,85,,Pakistan,20,"['Zimbabwe', 'Pakistan']",field,Zimbabwe
+1849,"[datetime.date(2011, 9, 18)]",T20,0,5,,Pakistan,20,"['Zimbabwe', 'Pakistan']",bat,Pakistan
+1879,"[datetime.date(2011, 9, 23)]",T20,0,,10,England,20,"['England', 'West Indies']",field,England
+1880,"[datetime.date(2011, 9, 25)]",T20,0,25,,West Indies,20,"['England', 'West Indies']",field,England
+1881,"[datetime.date(2011, 10, 15)]",T20,0,,10,New Zealand,20,"['Zimbabwe', 'New Zealand']",field,New Zealand
+1883,"[datetime.date(2011, 10, 20)]",ODI,0,,9,New Zealand,50,"['Zimbabwe', 'New Zealand']",bat,Zimbabwe
+1884,"[datetime.date(2011, 10, 22)]",ODI,0,,4,New Zealand,50,"['Zimbabwe', 'New Zealand']",field,New Zealand
+1885,"[datetime.date(2011, 10, 25)]",ODI,0,,1,Zimbabwe,50,"['Zimbabwe', 'New Zealand']",bat,New Zealand
+1897,"[datetime.date(2011, 11, 11)]",ODI,1,,8,Pakistan,50,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+1898,"[datetime.date(2011, 11, 14)]",ODI,1,25,,Sri Lanka,50,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+1899,"[datetime.date(2011, 11, 18)]",ODI,1,21,,Pakistan,50,"['Pakistan', 'Sri Lanka']",bat,Pakistan
+1900,"[datetime.date(2011, 11, 20)]",ODI,1,26,,Pakistan,50,"['Pakistan', 'Sri Lanka']",bat,Pakistan
+1901,"[datetime.date(2011, 11, 23)]",ODI,1,,3,Pakistan,50,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+1902,"[datetime.date(2011, 11, 25)]",T20,1,,5,Pakistan,20,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+1906,"[datetime.date(2012, 2, 13)]",ODI,1,130,,England,50,"['England', 'Pakistan']",bat,England
+1907,"[datetime.date(2012, 2, 15)]",ODI,1,20,,England,50,"['England', 'Pakistan']",bat,England
+1908,"[datetime.date(2012, 2, 18)]",ODI,1,,9,England,50,"['England', 'Pakistan']",bat,Pakistan
+1909,"[datetime.date(2012, 2, 21)]",ODI,1,,4,England,50,"['England', 'Pakistan']",bat,Pakistan
+1910,"[datetime.date(2012, 2, 23)]",T20,1,8,,Pakistan,20,"['England', 'Pakistan']",field,England
+1911,"[datetime.date(2012, 2, 25)]",T20,1,38,,England,20,"['England', 'Pakistan']",bat,England
+1912,"[datetime.date(2012, 2, 27)]",T20,1,5,,England,20,"['England', 'Pakistan']",bat,England
+1913,"[datetime.date(2011, 10, 11)]",T20,0,,3,Bangladesh,20,"['Bangladesh', 'West Indies']",field,Bangladesh
+1914,"[datetime.date(2011, 10, 13)]",ODI,0,40,,West Indies,50,"['Bangladesh', 'West Indies']",field,Bangladesh
+1915,"[datetime.date(2011, 10, 15)]",ODI,0,,8,West Indies,50,"['Bangladesh', 'West Indies']",bat,Bangladesh
+1916,"[datetime.date(2011, 10, 18)]",ODI,0,,8,Bangladesh,50,"['Bangladesh', 'West Indies']",field,Bangladesh
+1919,"[datetime.date(2012, 9, 18)]",T20,0,82,,Sri Lanka,20,"['Sri Lanka', 'Zimbabwe']",field,Zimbabwe
+1922,"[datetime.date(2012, 9, 20)]",T20,1,,10,South Africa,20,"['South Africa', 'Zimbabwe']",field,South Africa
+1923,"[datetime.date(2012, 9, 21)]",T20,1,59,,New Zealand,20,"['Bangladesh', 'New Zealand']",field,Bangladesh
+1925,"[datetime.date(2012, 9, 22)]",T20,0,32,,South Africa,20,"['Sri Lanka', 'South Africa']",field,Sri Lanka
+1927,"[datetime.date(2012, 9, 23)]",T20,1,13,,Pakistan,20,"['New Zealand', 'Pakistan']",bat,Pakistan
+1928,"[datetime.date(2012, 9, 23)]",T20,1,90,,India,20,"['England', 'India']",field,England
+1930,"[datetime.date(2012, 9, 25)]",T20,1,,8,Pakistan,20,"['Bangladesh', 'Pakistan']",bat,Bangladesh
+1932,"[datetime.date(2012, 9, 27)]",T20,1,15,,West Indies,20,"['England', 'West Indies']",bat,West Indies
+1933,"[datetime.date(2012, 9, 28)]",T20,1,,2,Pakistan,20,"['Pakistan', 'South Africa']",bat,South Africa
+1934,"[datetime.date(2012, 9, 28)]",T20,1,,9,Australia,20,"['Australia', 'India']",bat,India
+1935,"[datetime.date(2012, 9, 29)]",T20,1,,6,England,20,"['England', 'New Zealand']",bat,New Zealand
+1936,"[datetime.date(2012, 9, 29)]",T20,0,,9,Sri Lanka,20,"['Sri Lanka', 'West Indies']",bat,West Indies
+1937,"[datetime.date(2012, 9, 30)]",T20,1,,8,Australia,20,"['Australia', 'South Africa']",field,Australia
+1938,"[datetime.date(2012, 9, 30)]",T20,1,,8,India,20,"['India', 'Pakistan']",bat,Pakistan
+1940,"[datetime.date(2012, 10, 1)]",T20,0,19,,Sri Lanka,20,"['Sri Lanka', 'England']",field,England
+1941,"[datetime.date(2012, 10, 2)]",T20,1,32,,Pakistan,20,"['Australia', 'Pakistan']",field,Australia
+1942,"[datetime.date(2012, 10, 2)]",T20,1,1,,India,20,"['India', 'South Africa']",field,South Africa
+1943,"[datetime.date(2012, 10, 4)]",T20,0,16,,Sri Lanka,20,"['Sri Lanka', 'Pakistan']",bat,Sri Lanka
+1944,"[datetime.date(2012, 10, 5)]",T20,1,74,,West Indies,20,"['Australia', 'West Indies']",bat,West Indies
+1945,"[datetime.date(2012, 10, 7)]",T20,0,36,,West Indies,20,"['Sri Lanka', 'West Indies']",bat,West Indies
+1964,"[datetime.date(2012, 6, 24)]",T20,0,,7,England,20,"['England', 'West Indies']",bat,West Indies
+1966,"[datetime.date(2012, 6, 19)]",ODI,0,,8,England,50,"['England', 'West Indies']",field,England
+1968,"[datetime.date(2012, 6, 29)]",ODI,0,15,,England,50,"['England', 'Australia']",field,Australia
+1969,"[datetime.date(2012, 7, 1)]",ODI,0,,6,England,50,"['England', 'Australia']",bat,Australia
+1970,"[datetime.date(2012, 7, 7)]",ODI,0,,8,England,50,"['England', 'Australia']",field,England
+1976,"[datetime.date(2012, 8, 28)]",ODI,0,80,,South Africa,50,"['England', 'South Africa']",bat,South Africa
+1977,"[datetime.date(2012, 8, 31)]",ODI,0,,4,England,50,"['England', 'South Africa']",bat,South Africa
+1978,"[datetime.date(2012, 9, 2)]",ODI,0,,6,England,50,"['England', 'South Africa']",field,England
+1979,"[datetime.date(2012, 9, 5)]",ODI,0,,7,South Africa,50,"['England', 'South Africa']",bat,England
+1980,"[datetime.date(2012, 9, 8)]",T20,0,,7,South Africa,20,"['England', 'South Africa']",field,South Africa
+1982,"[datetime.date(2012, 9, 12)]",T20,0,28,,England,20,"['England', 'South Africa']",field,South Africa
+1983,"[datetime.date(2012, 3, 11)]",ODI,0,21,,Pakistan,50,"['Bangladesh', 'Pakistan']",field,Bangladesh
+1984,"[datetime.date(2012, 3, 13)]",ODI,1,50,,India,50,"['India', 'Sri Lanka']",field,Sri Lanka
+1985,"[datetime.date(2012, 3, 15)]",ODI,1,,6,Pakistan,50,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+1986,"[datetime.date(2012, 3, 16)]",ODI,0,,5,Bangladesh,50,"['Bangladesh', 'India']",field,Bangladesh
+1987,"[datetime.date(2012, 3, 18)]",ODI,1,,6,India,50,"['India', 'Pakistan']",bat,Pakistan
+1989,"[datetime.date(2012, 3, 22)]",ODI,0,2,,Pakistan,50,"['Bangladesh', 'Pakistan']",field,Bangladesh
+1993,"[datetime.date(2011, 11, 29)]",ODI,0,,1,India,50,"['India', 'West Indies']",field,India
+1994,"[datetime.date(2011, 12, 2)]",ODI,0,,5,India,50,"['India', 'West Indies']",field,India
+1995,"[datetime.date(2011, 12, 5)]",ODI,0,16,,West Indies,50,"['India', 'West Indies']",field,India
+1996,"[datetime.date(2011, 12, 8)]",ODI,0,153,,India,50,"['India', 'West Indies']",bat,India
+1997,"[datetime.date(2011, 12, 11)]",ODI,0,34,,India,50,"['India', 'West Indies']",bat,India
+1998,"[datetime.date(2011, 11, 29)]",T20,0,50,,Pakistan,20,"['Bangladesh', 'Pakistan']",bat,Pakistan
+1999,"[datetime.date(2011, 12, 1)]",ODI,0,,5,Pakistan,50,"['Bangladesh', 'Pakistan']",bat,Bangladesh
+2000,"[datetime.date(2011, 12, 3)]",ODI,0,76,,Pakistan,50,"['Bangladesh', 'Pakistan']",bat,Pakistan
+2001,"[datetime.date(2011, 12, 6)]",ODI,0,58,,Pakistan,50,"['Bangladesh', 'Pakistan']",bat,Pakistan
+2004,"[datetime.date(2012, 3, 16)]",ODI,0,64,,Australia,50,"['West Indies', 'Australia']",bat,Australia
+2007,"[datetime.date(2012, 3, 23)]",ODI,0,42,,West Indies,50,"['West Indies', 'Australia']",field,Australia
+2008,"[datetime.date(2012, 3, 25)]",ODI,0,30,,Australia,50,"['West Indies', 'Australia']",field,West Indies
+2009,"[datetime.date(2012, 3, 27)]",T20,0,,8,Australia,20,"['West Indies', 'Australia']",bat,West Indies
+2010,"[datetime.date(2012, 3, 30)]",T20,0,14,,West Indies,20,"['West Indies', 'Australia']",bat,West Indies
+2117,"[datetime.date(2012, 6, 30)]",T20,1,56,,West Indies,20,"['New Zealand', 'West Indies']",field,New Zealand
+2118,"[datetime.date(2012, 7, 1)]",T20,1,61,,West Indies,20,"['New Zealand', 'West Indies']",bat,West Indies
+2120,"[datetime.date(2012, 7, 7)]",ODI,0,55,,West Indies,50,"['West Indies', 'New Zealand']",field,New Zealand
+2121,"[datetime.date(2012, 7, 11)]",ODI,0,88,,New Zealand,50,"['West Indies', 'New Zealand']",field,West Indies
+2122,"[datetime.date(2012, 7, 14)]",ODI,0,24,,West Indies,50,"['West Indies', 'New Zealand']",bat,West Indies
+2123,"[datetime.date(2012, 7, 16)]",ODI,0,20,,West Indies,50,"['West Indies', 'New Zealand']",bat,West Indies
+2126,"[datetime.date(2012, 6, 1)]",T20,0,37,,Sri Lanka,20,"['Sri Lanka', 'Pakistan']",bat,Sri Lanka
+2127,"[datetime.date(2012, 6, 3)]",T20,0,23,,Pakistan,20,"['Sri Lanka', 'Pakistan']",bat,Pakistan
+2129,"[datetime.date(2012, 6, 9)]",ODI,0,76,,Sri Lanka,50,"['Sri Lanka', 'Pakistan']",bat,Sri Lanka
+2131,"[datetime.date(2012, 6, 16)]",ODI,0,44,,Sri Lanka,50,"['Sri Lanka', 'Pakistan']",bat,Sri Lanka
+2132,"[datetime.date(2012, 6, 18)]",ODI,0,,2,Sri Lanka,50,"['Sri Lanka', 'Pakistan']",bat,Pakistan
+2136,"[datetime.date(2012, 7, 21)]",ODI,0,21,,India,50,"['Sri Lanka', 'India']",bat,India
+2137,"[datetime.date(2012, 7, 24)]",ODI,0,,9,Sri Lanka,50,"['Sri Lanka', 'India']",bat,India
+2138,"[datetime.date(2012, 7, 28)]",ODI,0,,5,India,50,"['Sri Lanka', 'India']",bat,Sri Lanka
+2139,"[datetime.date(2012, 7, 31)]",ODI,0,,6,India,50,"['Sri Lanka', 'India']",bat,Sri Lanka
+2140,"[datetime.date(2012, 8, 4)]",ODI,0,20,,India,50,"['Sri Lanka', 'India']",bat,India
+2141,"[datetime.date(2012, 8, 7)]",T20,0,39,,India,20,"['Sri Lanka', 'India']",field,Sri Lanka
+2146,"[datetime.date(2012, 12, 20)]",T20,0,,5,India,20,"['India', 'England']",field,India
+2147,"[datetime.date(2012, 12, 22)]",T20,0,,6,England,20,"['India', 'England']",field,England
+2148,"[datetime.date(2013, 1, 11)]",ODI,0,9,,England,50,"['India', 'England']",bat,England
+2149,"[datetime.date(2013, 1, 15)]",ODI,0,127,,India,50,"['India', 'England']",bat,India
+2150,"[datetime.date(2013, 1, 19)]",ODI,0,,7,India,50,"['India', 'England']",field,India
+2151,"[datetime.date(2013, 1, 23)]",ODI,0,,5,India,50,"['India', 'England']",field,India
+2152,"[datetime.date(2013, 1, 27)]",ODI,0,,7,England,50,"['India', 'England']",field,England
+2155,"[datetime.date(2012, 9, 11)]",T20,0,1,,New Zealand,20,"['India', 'New Zealand']",field,India
+2160,"[datetime.date(2013, 5, 31)]",ODI,0,,5,New Zealand,50,"['England', 'New Zealand']",field,New Zealand
+2161,"[datetime.date(2013, 6, 2)]",ODI,0,86,,New Zealand,50,"['England', 'New Zealand']",bat,New Zealand
+2162,"[datetime.date(2013, 6, 5)]",ODI,0,34,,England,50,"['England', 'New Zealand']",field,New Zealand
+2163,"[datetime.date(2013, 6, 25)]",T20,0,5,,New Zealand,20,"['England', 'New Zealand']",field,England
+2170,"[datetime.date(2013, 8, 29)]",T20,0,39,,Australia,20,"['England', 'Australia']",field,England
+2171,"[datetime.date(2013, 8, 31)]",T20,0,27,,England,20,"['England', 'Australia']",field,Australia
+2173,"[datetime.date(2013, 9, 8)]",ODI,0,88,,Australia,50,"['England', 'Australia']",field,England
+2175,"[datetime.date(2013, 9, 14)]",ODI,0,,3,England,50,"['England', 'Australia']",field,England
+2176,"[datetime.date(2013, 9, 16)]",ODI,0,49,,Australia,50,"['England', 'Australia']",bat,Australia
+2177,"[datetime.date(2013, 6, 19)]",ODI,0,,7,England,50,"['England', 'South Africa']",field,England
+2178,"[datetime.date(2013, 6, 20)]",ODI,1,,8,India,50,"['India', 'Sri Lanka']",field,India
+2179,"[datetime.date(2013, 6, 23)]",ODI,0,5,,India,50,"['England', 'India']",field,England
+2182,"[datetime.date(2012, 12, 21)]",T20,0,,8,South Africa,20,"['South Africa', 'New Zealand']",bat,New Zealand
+2184,"[datetime.date(2012, 12, 26)]",T20,0,33,,South Africa,20,"['South Africa', 'New Zealand']",bat,South Africa
+2187,"[datetime.date(2013, 1, 19)]",ODI,0,,1,New Zealand,50,"['South Africa', 'New Zealand']",field,New Zealand
+2188,"[datetime.date(2013, 1, 22)]",ODI,0,27,,New Zealand,50,"['South Africa', 'New Zealand']",field,South Africa
+2189,"[datetime.date(2013, 1, 25)]",ODI,0,,1,South Africa,50,"['South Africa', 'New Zealand']",bat,New Zealand
+2193,"[datetime.date(2013, 3, 3)]",T20,0,95,,Pakistan,20,"['South Africa', 'Pakistan']",bat,Pakistan
+2194,"[datetime.date(2013, 3, 10)]",ODI,0,125,,South Africa,50,"['South Africa', 'Pakistan']",field,Pakistan
+2196,"[datetime.date(2013, 3, 17)]",ODI,0,34,,South Africa,50,"['South Africa', 'Pakistan']",field,Pakistan
+2197,"[datetime.date(2013, 3, 21)]",ODI,0,,3,Pakistan,50,"['South Africa', 'Pakistan']",bat,South Africa
+2198,"[datetime.date(2013, 3, 24)]",ODI,0,,6,South Africa,50,"['South Africa', 'Pakistan']",bat,Pakistan
+2199,"[datetime.date(2013, 2, 9)]",T20,0,40,,England,20,"['New Zealand', 'England']",field,New Zealand
+2200,"[datetime.date(2013, 2, 12)]",T20,0,55,,New Zealand,20,"['New Zealand', 'England']",field,England
+2201,"[datetime.date(2013, 2, 15)]",T20,0,,10,England,20,"['New Zealand', 'England']",field,England
+2202,"[datetime.date(2013, 2, 17)]",ODI,0,,3,New Zealand,50,"['New Zealand', 'England']",field,New Zealand
+2203,"[datetime.date(2013, 2, 20)]",ODI,0,,8,England,50,"['New Zealand', 'England']",field,England
+2204,"[datetime.date(2013, 2, 23)]",ODI,0,,5,England,50,"['New Zealand', 'England']",field,England
+2208,"[datetime.date(2012, 8, 28)]",ODI,1,,4,Australia,50,"['Australia', 'Pakistan']",bat,Pakistan
+2209,"[datetime.date(2012, 8, 31)]",ODI,1,,7,Pakistan,50,"['Australia', 'Pakistan']",bat,Australia
+2210,"[datetime.date(2012, 9, 3)]",ODI,1,,3,Australia,50,"['Australia', 'Pakistan']",field,Australia
+2211,"[datetime.date(2012, 9, 5)]",T20,1,,7,Pakistan,20,"['Australia', 'Pakistan']",field,Pakistan
+2213,"[datetime.date(2012, 9, 10)]",T20,1,94,,Australia,20,"['Australia', 'Pakistan']",field,Pakistan
+2249,"[datetime.date(2013, 1, 11)]",ODI,0,107,,Australia,50,"['Australia', 'Sri Lanka']",bat,Australia
+2250,"[datetime.date(2013, 1, 13)]",ODI,0,,8,Sri Lanka,50,"['Australia', 'Sri Lanka']",field,Sri Lanka
+2251,"[datetime.date(2013, 1, 18)]",ODI,0,,4,Sri Lanka,50,"['Australia', 'Sri Lanka']",bat,Australia
+2253,"[datetime.date(2013, 1, 23)]",ODI,0,32,,Australia,50,"['Australia', 'Sri Lanka']",field,Sri Lanka
+2254,"[datetime.date(2013, 1, 26)]",T20,0,,5,Sri Lanka,20,"['Australia', 'Sri Lanka']",bat,Australia
+2256,"[datetime.date(2013, 2, 1)]",ODI,0,,9,Australia,50,"['Australia', 'West Indies']",bat,West Indies
+2257,"[datetime.date(2013, 2, 3)]",ODI,0,54,,Australia,50,"['Australia', 'West Indies']",field,West Indies
+2258,"[datetime.date(2013, 2, 6)]",ODI,0,39,,Australia,50,"['Australia', 'West Indies']",bat,Australia
+2259,"[datetime.date(2013, 2, 8)]",ODI,0,,5,Australia,50,"['Australia', 'West Indies']",bat,West Indies
+2260,"[datetime.date(2013, 2, 10)]",ODI,0,17,,Australia,50,"['Australia', 'West Indies']",field,West Indies
+2261,"[datetime.date(2013, 2, 13)]",T20,0,27,,West Indies,20,"['Australia', 'West Indies']",bat,West Indies
+2276,"[datetime.date(2013, 6, 6)]",ODI,1,26,,India,50,"['India', 'South Africa']",field,South Africa
+2277,"[datetime.date(2013, 6, 7)]",ODI,1,,2,West Indies,50,"['Pakistan', 'West Indies']",field,West Indies
+2278,"[datetime.date(2013, 6, 8)]",ODI,0,48,,England,50,"['England', 'Australia']",bat,England
+2279,"[datetime.date(2013, 6, 9)]",ODI,1,,1,New Zealand,50,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+2280,"[datetime.date(2013, 6, 10)]",ODI,1,67,,South Africa,50,"['Pakistan', 'South Africa']",bat,South Africa
+2281,"[datetime.date(2013, 6, 11)]",ODI,1,,8,India,50,"['India', 'West Indies']",field,India
+2283,"[datetime.date(2013, 6, 13)]",ODI,0,,7,Sri Lanka,50,"['England', 'Sri Lanka']",field,Sri Lanka
+2286,"[datetime.date(2013, 6, 16)]",ODI,0,10,,England,50,"['England', 'New Zealand']",field,New Zealand
+2287,"[datetime.date(2013, 6, 17)]",ODI,1,20,,Sri Lanka,50,"['Australia', 'Sri Lanka']",field,Australia
+2311,"[datetime.date(2012, 11, 30)]",ODI,0,,7,Bangladesh,50,"['Bangladesh', 'West Indies']",bat,West Indies
+2312,"[datetime.date(2012, 12, 2)]",ODI,0,160,,Bangladesh,50,"['Bangladesh', 'West Indies']",field,West Indies
+2313,"[datetime.date(2012, 12, 5)]",ODI,0,,4,West Indies,50,"['Bangladesh', 'West Indies']",field,West Indies
+2314,"[datetime.date(2012, 12, 7)]",ODI,0,75,,West Indies,50,"['Bangladesh', 'West Indies']",field,Bangladesh
+2315,"[datetime.date(2012, 12, 8)]",ODI,0,,2,Bangladesh,50,"['Bangladesh', 'West Indies']",field,Bangladesh
+2316,"[datetime.date(2012, 12, 10)]",T20,0,18,,West Indies,20,"['Bangladesh', 'West Indies']",bat,West Indies
+2319,"[datetime.date(2012, 12, 25)]",T20,0,,5,Pakistan,20,"['India', 'Pakistan']",field,Pakistan
+2320,"[datetime.date(2012, 12, 28)]",T20,0,11,,India,20,"['India', 'Pakistan']",field,Pakistan
+2321,"[datetime.date(2012, 12, 30)]",ODI,0,,6,Pakistan,50,"['India', 'Pakistan']",field,Pakistan
+2322,"[datetime.date(2013, 1, 3)]",ODI,0,85,,Pakistan,50,"['India', 'Pakistan']",field,India
+2323,"[datetime.date(2013, 1, 6)]",ODI,0,10,,India,50,"['India', 'Pakistan']",bat,India
+2342,"[datetime.date(2013, 2, 22)]",ODI,0,156,,West Indies,50,"['West Indies', 'Zimbabwe']",field,Zimbabwe
+2343,"[datetime.date(2013, 2, 26)]",ODI,0,,5,West Indies,50,"['West Indies', 'Zimbabwe']",bat,Zimbabwe
+2344,"[datetime.date(2013, 3, 2)]",T20,0,,8,West Indies,20,"['West Indies', 'Zimbabwe']",bat,Zimbabwe
+2345,"[datetime.date(2013, 3, 3)]",T20,0,41,,West Indies,20,"['West Indies', 'Zimbabwe']",bat,West Indies
+2358,"[datetime.date(2013, 6, 28)]",ODI,0,,6,West Indies,50,"['West Indies', 'Sri Lanka']",field,West Indies
+2359,"[datetime.date(2013, 6, 30)]",ODI,0,,1,West Indies,50,"['West Indies', 'India']",field,West Indies
+2360,"[datetime.date(2013, 7, 2)]",ODI,1,161,,Sri Lanka,50,"['India', 'Sri Lanka']",field,India
+2364,"[datetime.date(2013, 7, 11)]",ODI,1,,1,India,50,"['India', 'Sri Lanka']",field,India
+2453,"[datetime.date(2013, 3, 31)]",T20,0,17,,Sri Lanka,20,"['Sri Lanka', 'Bangladesh']",field,Bangladesh
+2460,"[datetime.date(2013, 5, 11)]",T20,0,6,,Zimbabwe,20,"['Zimbabwe', 'Bangladesh']",bat,Zimbabwe
+2461,"[datetime.date(2013, 5, 12)]",T20,0,34,,Bangladesh,20,"['Zimbabwe', 'Bangladesh']",bat,Bangladesh
+2462,"[datetime.date(2013, 5, 3)]",ODI,0,121,,Bangladesh,50,"['Zimbabwe', 'Bangladesh']",field,Zimbabwe
+2463,"[datetime.date(2013, 5, 5)]",ODI,0,,6,Zimbabwe,50,"['Zimbabwe', 'Bangladesh']",field,Zimbabwe
+2464,"[datetime.date(2013, 5, 8)]",ODI,0,,7,Zimbabwe,50,"['Zimbabwe', 'Bangladesh']",field,Zimbabwe
+2481,"[datetime.date(2013, 7, 20)]",ODI,0,180,,Sri Lanka,50,"['Sri Lanka', 'South Africa']",field,South Africa
+2483,"[datetime.date(2013, 7, 26)]",ODI,0,56,,South Africa,50,"['Sri Lanka', 'South Africa']",bat,South Africa
+2484,"[datetime.date(2013, 7, 28)]",ODI,0,,8,Sri Lanka,50,"['Sri Lanka', 'South Africa']",bat,South Africa
+2485,"[datetime.date(2013, 7, 31)]",ODI,0,128,,Sri Lanka,50,"['Sri Lanka', 'South Africa']",bat,Sri Lanka
+2486,"[datetime.date(2013, 8, 2)]",T20,0,12,,South Africa,20,"['Sri Lanka', 'South Africa']",bat,South Africa
+2487,"[datetime.date(2013, 8, 4)]",T20,0,22,,South Africa,20,"['Sri Lanka', 'South Africa']",bat,South Africa
+2488,"[datetime.date(2013, 8, 6)]",T20,0,,6,Sri Lanka,20,"['Sri Lanka', 'South Africa']",bat,South Africa
+2489,"[datetime.date(2014, 1, 12)]",ODI,0,,6,Australia,50,"['Australia', 'England']",bat,England
+2490,"[datetime.date(2014, 1, 17)]",ODI,0,,1,Australia,50,"['Australia', 'England']",bat,England
+2491,"[datetime.date(2014, 1, 19)]",ODI,0,,7,Australia,50,"['Australia', 'England']",bat,England
+2492,"[datetime.date(2014, 1, 24)]",ODI,0,57,,England,50,"['Australia', 'England']",field,Australia
+2493,"[datetime.date(2014, 1, 26)]",ODI,0,5,,Australia,50,"['Australia', 'England']",bat,Australia
+2494,"[datetime.date(2014, 1, 29)]",T20,0,13,,Australia,20,"['Australia', 'England']",bat,Australia
+2495,"[datetime.date(2014, 1, 31)]",T20,0,,8,Australia,20,"['Australia', 'England']",bat,England
+2496,"[datetime.date(2014, 2, 2)]",T20,0,84,,Australia,20,"['Australia', 'England']",bat,Australia
+2497,"[datetime.date(2014, 2, 28)]",ODI,0,15,,West Indies,50,"['West Indies', 'England']",field,England
+2498,"[datetime.date(2014, 3, 2)]",ODI,0,,3,England,50,"['West Indies', 'England']",field,England
+2499,"[datetime.date(2014, 3, 5)]",ODI,0,25,,England,50,"['West Indies', 'England']",field,West Indies
+2500,"[datetime.date(2014, 3, 9)]",T20,0,27,,West Indies,20,"['West Indies', 'England']",bat,West Indies
+2501,"[datetime.date(2014, 3, 11)]",T20,0,,5,West Indies,20,"['West Indies', 'England']",bat,England
+2502,"[datetime.date(2014, 3, 13)]",T20,0,5,,England,20,"['West Indies', 'England']",bat,England
+2514,"[datetime.date(2013, 7, 24)]",ODI,0,,6,India,50,"['Zimbabwe', 'India']",field,India
+2515,"[datetime.date(2013, 7, 26)]",ODI,0,58,,India,50,"['Zimbabwe', 'India']",field,Zimbabwe
+2516,"[datetime.date(2013, 7, 28)]",ODI,0,,7,India,50,"['Zimbabwe', 'India']",field,India
+2517,"[datetime.date(2013, 8, 1)]",ODI,0,,9,India,50,"['Zimbabwe', 'India']",field,India
+2518,"[datetime.date(2013, 8, 3)]",ODI,0,,7,India,50,"['Zimbabwe', 'India']",field,India
+2522,"[datetime.date(2013, 7, 14)]",ODI,0,126,,Pakistan,50,"['West Indies', 'Pakistan']",field,West Indies
+2523,"[datetime.date(2013, 7, 16)]",ODI,0,37,,West Indies,50,"['West Indies', 'Pakistan']",field,Pakistan
+2526,"[datetime.date(2013, 7, 24)]",ODI,0,,4,Pakistan,50,"['West Indies', 'Pakistan']",field,Pakistan
+2527,"[datetime.date(2013, 7, 27)]",T20,0,,2,Pakistan,20,"['West Indies', 'Pakistan']",bat,West Indies
+2528,"[datetime.date(2013, 7, 28)]",T20,0,11,,Pakistan,20,"['West Indies', 'Pakistan']",bat,Pakistan
+2529,"[datetime.date(2013, 10, 10)]",T20,0,,6,India,20,"['India', 'Australia']",field,India
+2530,"[datetime.date(2013, 10, 13)]",ODI,0,72,,Australia,50,"['India', 'Australia']",bat,Australia
+2531,"[datetime.date(2013, 10, 16)]",ODI,0,,9,India,50,"['India', 'Australia']",bat,Australia
+2532,"[datetime.date(2013, 10, 19)]",ODI,0,,4,Australia,50,"['India', 'Australia']",field,Australia
+2534,"[datetime.date(2013, 10, 30)]",ODI,0,,6,India,50,"['India', 'Australia']",field,India
+2535,"[datetime.date(2013, 11, 2)]",ODI,0,57,,India,50,"['India', 'Australia']",field,Australia
+2536,"[datetime.date(2013, 12, 5)]",ODI,0,141,,South Africa,50,"['South Africa', 'India']",field,India
+2537,"[datetime.date(2013, 12, 8)]",ODI,0,134,,South Africa,50,"['South Africa', 'India']",field,India
+2544,"[datetime.date(2014, 3, 12)]",T20,0,,5,Australia,20,"['South Africa', 'Australia']",field,Australia
+2545,"[datetime.date(2014, 3, 14)]",T20,0,,6,Australia,20,"['South Africa', 'Australia']",field,Australia
+2548,"[datetime.date(2013, 10, 30)]",ODI,1,1,,South Africa,50,"['Pakistan', 'South Africa']",bat,South Africa
+2549,"[datetime.date(2013, 11, 1)]",ODI,1,66,,Pakistan,50,"['Pakistan', 'South Africa']",bat,Pakistan
+2550,"[datetime.date(2013, 11, 6)]",ODI,1,68,,South Africa,50,"['Pakistan', 'South Africa']",bat,South Africa
+2551,"[datetime.date(2013, 11, 8)]",ODI,1,28,,South Africa,50,"['Pakistan', 'South Africa']",bat,South Africa
+2552,"[datetime.date(2013, 11, 11)]",ODI,1,117,,South Africa,50,"['Pakistan', 'South Africa']",bat,South Africa
+2553,"[datetime.date(2013, 11, 13)]",T20,1,,9,South Africa,20,"['Pakistan', 'South Africa']",bat,Pakistan
+2554,"[datetime.date(2013, 11, 15)]",T20,1,6,,South Africa,20,"['Pakistan', 'South Africa']",bat,South Africa
+2589,"[datetime.date(2015, 2, 14)]",ODI,0,98,,New Zealand,50,"['New Zealand', 'Sri Lanka']",field,Sri Lanka
+2590,"[datetime.date(2015, 2, 14)]",ODI,0,111,,Australia,50,"['Australia', 'England']",field,England
+2591,"[datetime.date(2015, 2, 15)]",ODI,1,62,,South Africa,50,"['South Africa', 'Zimbabwe']",field,Zimbabwe
+2592,"[datetime.date(2015, 2, 15)]",ODI,1,76,,India,50,"['India', 'Pakistan']",bat,India
+2597,"[datetime.date(2015, 2, 20)]",ODI,0,,8,New Zealand,50,"['New Zealand', 'England']",bat,England
+2598,"[datetime.date(2015, 2, 21)]",ODI,1,150,,West Indies,50,"['Pakistan', 'West Indies']",field,Pakistan
+2600,"[datetime.date(2015, 2, 22)]",ODI,1,130,,India,50,"['India', 'South Africa']",bat,India
+2605,"[datetime.date(2015, 2, 26)]",ODI,1,92,,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",bat,Sri Lanka
+2606,"[datetime.date(2015, 2, 27)]",ODI,1,257,,South Africa,50,"['South Africa', 'West Indies']",bat,South Africa
+2607,"[datetime.date(2015, 2, 28)]",ODI,0,,1,New Zealand,50,"['New Zealand', 'Australia']",bat,Australia
+2609,"[datetime.date(2015, 3, 1)]",ODI,1,,9,Sri Lanka,50,"['England', 'Sri Lanka']",bat,England
+2610,"[datetime.date(2015, 3, 1)]",ODI,1,20,,Pakistan,50,"['Pakistan', 'Zimbabwe']",bat,Pakistan
+2615,"[datetime.date(2015, 3, 6)]",ODI,1,,4,India,50,"['India', 'West Indies']",bat,West Indies
+2619,"[datetime.date(2015, 3, 8)]",ODI,0,64,,Australia,50,"['Australia', 'Sri Lanka']",bat,Australia
+2620,"[datetime.date(2015, 3, 9)]",ODI,1,15,,Bangladesh,50,"['Bangladesh', 'England']",field,England
+2624,"[datetime.date(2015, 3, 13)]",ODI,0,,3,New Zealand,50,"['New Zealand', 'Bangladesh']",field,New Zealand
+2626,"[datetime.date(2015, 3, 14)]",ODI,1,,6,India,50,"['India', 'Zimbabwe']",field,India
+2630,"[datetime.date(2015, 3, 18)]",ODI,1,,9,South Africa,50,"['South Africa', 'Sri Lanka']",bat,Sri Lanka
+2631,"[datetime.date(2015, 3, 19)]",ODI,1,109,,India,50,"['Bangladesh', 'India']",bat,India
+2632,"[datetime.date(2015, 3, 20)]",ODI,0,,6,Australia,50,"['Australia', 'Pakistan']",bat,Pakistan
+2633,"[datetime.date(2015, 3, 21)]",ODI,0,143,,New Zealand,50,"['New Zealand', 'West Indies']",bat,New Zealand
+2635,"[datetime.date(2015, 3, 26)]",ODI,0,95,,Australia,50,"['Australia', 'India']",bat,Australia
+2636,"[datetime.date(2015, 3, 29)]",ODI,0,,7,Australia,50,"['Australia', 'New Zealand']",bat,New Zealand
+2638,"[datetime.date(2013, 12, 11)]",T20,1,,3,Pakistan,20,"['Pakistan', 'Sri Lanka']",field,Pakistan
+2639,"[datetime.date(2013, 12, 13)]",T20,1,24,,Sri Lanka,20,"['Pakistan', 'Sri Lanka']",field,Pakistan
+2640,"[datetime.date(2013, 12, 18)]",ODI,1,11,,Pakistan,50,"['Pakistan', 'Sri Lanka']",bat,Pakistan
+2641,"[datetime.date(2013, 12, 20)]",ODI,1,,2,Sri Lanka,50,"['Pakistan', 'Sri Lanka']",field,Sri Lanka
+2642,"[datetime.date(2013, 12, 22)]",ODI,1,113,,Pakistan,50,"['Pakistan', 'Sri Lanka']",field,Sri Lanka
+2643,"[datetime.date(2013, 12, 25)]",ODI,1,,8,Pakistan,50,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+2644,"[datetime.date(2013, 12, 27)]",ODI,1,,2,Sri Lanka,50,"['Pakistan', 'Sri Lanka']",bat,Pakistan
+2648,"[datetime.date(2013, 8, 23)]",T20,0,25,,Pakistan,20,"['Zimbabwe', 'Pakistan']",field,Zimbabwe
+2649,"[datetime.date(2013, 8, 24)]",T20,0,19,,Pakistan,20,"['Zimbabwe', 'Pakistan']",field,Zimbabwe
+2650,"[datetime.date(2013, 8, 27)]",ODI,0,,7,Zimbabwe,50,"['Zimbabwe', 'Pakistan']",bat,Pakistan
+2651,"[datetime.date(2013, 8, 29)]",ODI,0,90,,Pakistan,50,"['Zimbabwe', 'Pakistan']",field,Zimbabwe
+2652,"[datetime.date(2013, 8, 31)]",ODI,0,108,,Pakistan,50,"['Zimbabwe', 'Pakistan']",field,Zimbabwe
+2724,"[datetime.date(2013, 12, 26)]",ODI,0,,2,West Indies,50,"['New Zealand', 'West Indies']",field,West Indies
+2725,"[datetime.date(2014, 1, 1)]",ODI,0,159,,New Zealand,50,"['New Zealand', 'West Indies']",field,West Indies
+2727,"[datetime.date(2014, 1, 8)]",ODI,0,203,,West Indies,50,"['New Zealand', 'West Indies']",field,New Zealand
+2728,"[datetime.date(2014, 1, 11)]",T20,0,81,,New Zealand,20,"['New Zealand', 'West Indies']",bat,New Zealand
+2729,"[datetime.date(2014, 1, 15)]",T20,0,,4,New Zealand,20,"['New Zealand', 'West Indies']",bat,West Indies
+2741,"[datetime.date(2014, 1, 19)]",ODI,0,24,,New Zealand,50,"['New Zealand', 'India']",field,India
+2744,"[datetime.date(2014, 1, 28)]",ODI,0,,7,New Zealand,50,"['New Zealand', 'India']",bat,India
+2745,"[datetime.date(2014, 1, 31)]",ODI,0,87,,New Zealand,50,"['New Zealand', 'India']",field,India
+2754,"[datetime.date(2014, 8, 30)]",ODI,0,,6,India,50,"['England', 'India']",field,India
+2755,"[datetime.date(2014, 9, 2)]",ODI,0,,9,India,50,"['England', 'India']",field,India
+2756,"[datetime.date(2014, 9, 5)]",ODI,0,41,,England,50,"['England', 'India']",field,India
+2757,"[datetime.date(2014, 9, 7)]",T20,0,3,,England,20,"['England', 'India']",bat,England
+2758,"[datetime.date(2014, 5, 20)]",T20,0,9,,Sri Lanka,20,"['England', 'Sri Lanka']",field,England
+2760,"[datetime.date(2014, 5, 25)]",ODI,0,157,,Sri Lanka,50,"['England', 'Sri Lanka']",field,England
+2761,"[datetime.date(2014, 5, 28)]",ODI,0,,10,England,50,"['England', 'Sri Lanka']",field,England
+2762,"[datetime.date(2014, 5, 31)]",ODI,0,7,,Sri Lanka,50,"['England', 'Sri Lanka']",field,England
+2763,"[datetime.date(2014, 6, 3)]",ODI,0,,6,Sri Lanka,50,"['England', 'Sri Lanka']",bat,England
+2774,"[datetime.date(2013, 10, 31)]",ODI,0,40,,Bangladesh,50,"['Bangladesh', 'New Zealand']",bat,Bangladesh
+2775,"[datetime.date(2013, 11, 3)]",ODI,0,,4,Bangladesh,50,"['Bangladesh', 'New Zealand']",field,Bangladesh
+2776,"[datetime.date(2013, 11, 6)]",T20,0,15,,New Zealand,20,"['Bangladesh', 'New Zealand']",bat,New Zealand
+2780,"[datetime.date(2013, 11, 21)]",T20,0,,8,Sri Lanka,20,"['Sri Lanka', 'New Zealand']",field,Sri Lanka
+2783,"[datetime.date(2013, 11, 21)]",ODI,0,,6,India,50,"['India', 'West Indies']",bat,West Indies
+2784,"[datetime.date(2013, 11, 24)]",ODI,0,,2,West Indies,50,"['India', 'West Indies']",field,West Indies
+2785,"[datetime.date(2013, 11, 27)]",ODI,0,,5,India,50,"['India', 'West Indies']",field,India
+2798,"[datetime.date(2014, 3, 21)]",T20,1,,7,India,20,"['India', 'Pakistan']",field,India
+2799,"[datetime.date(2014, 3, 22)]",T20,1,5,,Sri Lanka,20,"['South Africa', 'Sri Lanka']",bat,Sri Lanka
+2801,"[datetime.date(2014, 3, 23)]",T20,1,16,,Pakistan,20,"['Australia', 'Pakistan']",field,Australia
+2802,"[datetime.date(2014, 3, 23)]",T20,1,,7,India,20,"['India', 'West Indies']",field,India
+2803,"[datetime.date(2014, 3, 24)]",T20,1,2,,South Africa,20,"['New Zealand', 'South Africa']",field,New Zealand
+2805,"[datetime.date(2014, 3, 25)]",T20,0,73,,West Indies,20,"['Bangladesh', 'West Indies']",field,Bangladesh
+2807,"[datetime.date(2014, 3, 27)]",T20,1,,6,England,20,"['England', 'Sri Lanka']",field,England
+2808,"[datetime.date(2014, 3, 28)]",T20,1,,6,West Indies,20,"['Australia', 'West Indies']",bat,Australia
+2809,"[datetime.date(2014, 3, 28)]",T20,0,,8,India,20,"['Bangladesh', 'India']",field,India
+2811,"[datetime.date(2014, 3, 29)]",T20,1,3,,South Africa,20,"['England', 'South Africa']",field,England
+2812,"[datetime.date(2014, 3, 30)]",T20,0,50,,Pakistan,20,"['Bangladesh', 'Pakistan']",bat,Pakistan
+2813,"[datetime.date(2014, 3, 30)]",T20,1,73,,India,20,"['Australia', 'India']",field,Australia
+2815,"[datetime.date(2014, 3, 31)]",T20,1,59,,Sri Lanka,20,"['New Zealand', 'Sri Lanka']",field,New Zealand
+2816,"[datetime.date(2014, 4, 1)]",T20,0,,7,Australia,20,"['Bangladesh', 'Australia']",bat,Bangladesh
+2817,"[datetime.date(2014, 4, 1)]",T20,1,84,,West Indies,20,"['Pakistan', 'West Indies']",bat,West Indies
+2819,"[datetime.date(2014, 4, 4)]",T20,1,,6,India,20,"['India', 'South Africa']",bat,South Africa
+2820,"[datetime.date(2014, 4, 6)]",T20,1,,6,Sri Lanka,20,"['India', 'Sri Lanka']",field,Sri Lanka
+2844,"[datetime.date(2013, 11, 22)]",T20,0,6,,Pakistan,20,"['South Africa', 'Pakistan']",bat,Pakistan
+2845,"[datetime.date(2013, 11, 24)]",ODI,0,23,,Pakistan,50,"['South Africa', 'Pakistan']",bat,Pakistan
+2846,"[datetime.date(2013, 11, 27)]",ODI,0,1,,Pakistan,50,"['South Africa', 'Pakistan']",field,South Africa
+2847,"[datetime.date(2013, 11, 30)]",ODI,0,,4,South Africa,50,"['South Africa', 'Pakistan']",field,South Africa
+2850,"[datetime.date(2014, 2, 12)]",T20,0,2,,Sri Lanka,20,"['Bangladesh', 'Sri Lanka']",field,Bangladesh
+2851,"[datetime.date(2014, 2, 14)]",T20,0,,3,Sri Lanka,20,"['Bangladesh', 'Sri Lanka']",bat,Bangladesh
+2852,"[datetime.date(2014, 2, 17)]",ODI,0,13,,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",field,Bangladesh
+2853,"[datetime.date(2014, 2, 20)]",ODI,0,61,,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",bat,Sri Lanka
+2854,"[datetime.date(2014, 2, 22)]",ODI,0,,6,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",field,Sri Lanka
+2870,"[datetime.date(2014, 2, 25)]",ODI,1,12,,Sri Lanka,50,"['Pakistan', 'Sri Lanka']",bat,Sri Lanka
+2871,"[datetime.date(2014, 2, 26)]",ODI,0,,6,India,50,"['Bangladesh', 'India']",field,India
+2873,"[datetime.date(2014, 2, 28)]",ODI,1,,2,Sri Lanka,50,"['India', 'Sri Lanka']",field,Sri Lanka
+2875,"[datetime.date(2014, 3, 2)]",ODI,1,,1,Pakistan,50,"['India', 'Pakistan']",field,Pakistan
+2877,"[datetime.date(2014, 3, 4)]",ODI,0,,3,Pakistan,50,"['Bangladesh', 'Pakistan']",bat,Bangladesh
+2879,"[datetime.date(2014, 3, 6)]",ODI,0,,3,Sri Lanka,50,"['Bangladesh', 'Sri Lanka']",bat,Bangladesh
+2880,"[datetime.date(2014, 3, 8)]",ODI,1,,5,Sri Lanka,50,"['Pakistan', 'Sri Lanka']",bat,Pakistan
+2886,"[datetime.date(2015, 1, 9)]",T20,0,,4,West Indies,20,"['South Africa', 'West Indies']",bat,South Africa
+2887,"[datetime.date(2015, 1, 11)]",T20,0,,4,West Indies,20,"['South Africa', 'West Indies']",field,West Indies
+2889,"[datetime.date(2015, 1, 18)]",ODI,0,148,,South Africa,50,"['South Africa', 'West Indies']",field,West Indies
+2890,"[datetime.date(2015, 1, 21)]",ODI,0,,9,South Africa,50,"['South Africa', 'West Indies']",bat,West Indies
+2891,"[datetime.date(2015, 1, 25)]",ODI,0,,1,West Indies,50,"['South Africa', 'West Indies']",field,West Indies
+2892,"[datetime.date(2015, 1, 28)]",ODI,0,131,,South Africa,50,"['South Africa', 'West Indies']",field,West Indies
+2902,"[datetime.date(2014, 10, 5)]",T20,1,,6,Australia,20,"['Australia', 'Pakistan']",bat,Pakistan
+2903,"[datetime.date(2014, 10, 7)]",ODI,1,93,,Australia,50,"['Australia', 'Pakistan']",bat,Australia
+2904,"[datetime.date(2014, 10, 10)]",ODI,1,,5,Australia,50,"['Australia', 'Pakistan']",bat,Pakistan
+2905,"[datetime.date(2014, 10, 12)]",ODI,1,1,,Australia,50,"['Australia', 'Pakistan']",bat,Australia
+2931,"[datetime.date(2014, 7, 6)]",ODI,0,75,,South Africa,50,"['Sri Lanka', 'South Africa']",bat,South Africa
+2932,"[datetime.date(2014, 7, 9)]",ODI,0,87,,Sri Lanka,50,"['Sri Lanka', 'South Africa']",bat,Sri Lanka
+2933,"[datetime.date(2014, 7, 12)]",ODI,0,82,,South Africa,50,"['Sri Lanka', 'South Africa']",bat,South Africa
+2940,"[datetime.date(2014, 7, 6)]",T20,0,39,,West Indies,20,"['West Indies', 'New Zealand']",field,New Zealand
+2941,"[datetime.date(2014, 8, 20)]",ODI,0,,3,West Indies,50,"['West Indies', 'Bangladesh']",field,West Indies
+2942,"[datetime.date(2014, 8, 22)]",ODI,0,177,,West Indies,50,"['West Indies', 'Bangladesh']",field,Bangladesh
+2943,"[datetime.date(2014, 8, 25)]",ODI,0,91,,West Indies,50,"['West Indies', 'Bangladesh']",bat,West Indies
+2987,"[datetime.date(2015, 1, 14)]",T20,0,69,,South Africa,20,"['South Africa', 'West Indies']",field,West Indies
+2989,"[datetime.date(2014, 8, 17)]",ODI,0,93,,South Africa,50,"['Zimbabwe', 'South Africa']",field,Zimbabwe
+2990,"[datetime.date(2014, 8, 19)]",ODI,0,61,,South Africa,50,"['Zimbabwe', 'South Africa']",field,Zimbabwe
+2991,"[datetime.date(2014, 8, 21)]",ODI,0,,7,South Africa,50,"['Zimbabwe', 'South Africa']",field,South Africa
+2992,"[datetime.date(2014, 8, 25)]",ODI,0,198,,Australia,50,"['Zimbabwe', 'Australia']",field,Zimbabwe
+2993,"[datetime.date(2014, 8, 27)]",ODI,1,,7,South Africa,50,"['Australia', 'South Africa']",field,South Africa
+2994,"[datetime.date(2014, 8, 29)]",ODI,0,61,,South Africa,50,"['Zimbabwe', 'South Africa']",field,Zimbabwe
+2995,"[datetime.date(2014, 8, 31)]",ODI,0,,3,Zimbabwe,50,"['Zimbabwe', 'Australia']",bat,Australia
+2996,"[datetime.date(2014, 9, 2)]",ODI,1,62,,Australia,50,"['Australia', 'South Africa']",field,South Africa
+2997,"[datetime.date(2014, 9, 4)]",ODI,0,63,,South Africa,50,"['Zimbabwe', 'South Africa']",field,Zimbabwe
+2998,"[datetime.date(2014, 9, 6)]",ODI,1,,6,South Africa,50,"['Australia', 'South Africa']",field,South Africa
+3013,"[datetime.date(2014, 12, 4)]",T20,1,,7,Pakistan,20,"['New Zealand', 'Pakistan']",field,Pakistan
+3014,"[datetime.date(2014, 12, 8)]",ODI,1,,3,Pakistan,50,"['New Zealand', 'Pakistan']",field,Pakistan
+3015,"[datetime.date(2014, 12, 12)]",ODI,1,,4,New Zealand,50,"['New Zealand', 'Pakistan']",bat,Pakistan
+3016,"[datetime.date(2014, 12, 14)]",ODI,1,147,,Pakistan,50,"['New Zealand', 'Pakistan']",bat,Pakistan
+3017,"[datetime.date(2014, 12, 17)]",ODI,1,7,,New Zealand,50,"['New Zealand', 'Pakistan']",bat,New Zealand
+3018,"[datetime.date(2014, 12, 19)]",ODI,1,68,,New Zealand,50,"['New Zealand', 'Pakistan']",bat,New Zealand
+3021,"[datetime.date(2015, 6, 9)]",ODI,0,210,,England,50,"['England', 'New Zealand']",field,New Zealand
+3023,"[datetime.date(2015, 6, 14)]",ODI,0,,3,New Zealand,50,"['England', 'New Zealand']",bat,England
+3024,"[datetime.date(2015, 6, 17)]",ODI,0,,7,England,50,"['England', 'New Zealand']",bat,New Zealand
+3026,"[datetime.date(2015, 6, 23)]",T20,0,56,,England,20,"['England', 'New Zealand']",bat,England
+3033,"[datetime.date(2015, 8, 31)]",T20,0,5,,England,20,"['England', 'Australia']",field,Australia
+3034,"[datetime.date(2015, 9, 3)]",ODI,0,59,,Australia,50,"['England', 'Australia']",bat,Australia
+3035,"[datetime.date(2015, 9, 5)]",ODI,0,64,,Australia,50,"['England', 'Australia']",field,England
+3036,"[datetime.date(2015, 9, 8)]",ODI,0,93,,England,50,"['England', 'Australia']",bat,England
+3037,"[datetime.date(2015, 9, 11)]",ODI,0,,3,England,50,"['England', 'Australia']",bat,Australia
+3038,"[datetime.date(2015, 9, 13)]",ODI,0,,8,Australia,50,"['England', 'Australia']",bat,England
+3045,"[datetime.date(2014, 8, 26)]",ODI,0,77,,Sri Lanka,50,"['Sri Lanka', 'Pakistan']",bat,Sri Lanka
+3072,"[datetime.date(2014, 10, 21)]",ODI,0,,6,South Africa,50,"['New Zealand', 'South Africa']",field,South Africa
+3073,"[datetime.date(2014, 10, 24)]",ODI,0,72,,South Africa,50,"['New Zealand', 'South Africa']",field,New Zealand
+3077,"[datetime.date(2015, 1, 11)]",ODI,0,,3,New Zealand,50,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+3078,"[datetime.date(2015, 1, 15)]",ODI,0,,6,Sri Lanka,50,"['New Zealand', 'Sri Lanka']",bat,New Zealand
+3080,"[datetime.date(2015, 1, 20)]",ODI,0,,4,New Zealand,50,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+3081,"[datetime.date(2015, 1, 23)]",ODI,0,108,,New Zealand,50,"['New Zealand', 'Sri Lanka']",field,Sri Lanka
+3082,"[datetime.date(2015, 1, 25)]",ODI,0,120,,New Zealand,50,"['New Zealand', 'Sri Lanka']",bat,New Zealand
+3083,"[datetime.date(2015, 1, 29)]",ODI,0,34,,Sri Lanka,50,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+3084,"[datetime.date(2015, 1, 31)]",ODI,0,,7,New Zealand,50,"['New Zealand', 'Pakistan']",field,New Zealand
+3085,"[datetime.date(2015, 2, 3)]",ODI,0,119,,New Zealand,50,"['New Zealand', 'Pakistan']",bat,New Zealand
+3086,"[datetime.date(2014, 11, 26)]",ODI,0,25,,Sri Lanka,50,"['Sri Lanka', 'England']",field,England
+3087,"[datetime.date(2014, 11, 29)]",ODI,0,,8,Sri Lanka,50,"['Sri Lanka', 'England']",bat,England
+3089,"[datetime.date(2014, 12, 7)]",ODI,0,,6,Sri Lanka,50,"['Sri Lanka', 'England']",bat,England
+3090,"[datetime.date(2014, 12, 10), datetime.date(2014, 12, 11)]",ODI,0,,5,England,50,"['Sri Lanka', 'England']",field,England
+3091,"[datetime.date(2014, 12, 13)]",ODI,0,90,,Sri Lanka,50,"['Sri Lanka', 'England']",bat,Sri Lanka
+3092,"[datetime.date(2014, 12, 16)]",ODI,0,87,,Sri Lanka,50,"['Sri Lanka', 'England']",bat,Sri Lanka
+3093,"[datetime.date(2014, 12, 5)]",T20,1,17,,New Zealand,20,"['New Zealand', 'Pakistan']",field,Pakistan
+3094,"[datetime.date(2014, 11, 5)]",T20,0,,7,South Africa,20,"['Australia', 'South Africa']",bat,Australia
+3095,"[datetime.date(2014, 11, 7)]",T20,0,,7,Australia,20,"['Australia', 'South Africa']",bat,South Africa
+3096,"[datetime.date(2014, 11, 9)]",T20,0,,2,Australia,20,"['Australia', 'South Africa']",field,Australia
+3097,"[datetime.date(2014, 11, 14)]",ODI,0,32,,Australia,50,"['Australia', 'South Africa']",field,South Africa
+3098,"[datetime.date(2014, 11, 16)]",ODI,0,,3,South Africa,50,"['Australia', 'South Africa']",bat,Australia
+3099,"[datetime.date(2014, 11, 19)]",ODI,0,73,,Australia,50,"['Australia', 'South Africa']",bat,Australia
+3100,"[datetime.date(2014, 11, 21)]",ODI,0,,3,Australia,50,"['Australia', 'South Africa']",bat,South Africa
+3106,"[datetime.date(2015, 1, 18)]",ODI,0,,4,Australia,50,"['Australia', 'India']",bat,India
+3107,"[datetime.date(2015, 1, 16)]",ODI,0,,3,Australia,50,"['Australia', 'England']",bat,England
+3108,"[datetime.date(2015, 1, 20)]",ODI,1,,9,England,50,"['England', 'India']",bat,India
+3109,"[datetime.date(2015, 1, 23)]",ODI,0,,3,Australia,50,"['Australia', 'England']",field,Australia
+3111,"[datetime.date(2015, 1, 30)]",ODI,1,,3,England,50,"['England', 'India']",field,England
+3112,"[datetime.date(2015, 2, 1)]",ODI,0,112,,Australia,50,"['Australia', 'England']",field,England
+3171,"[datetime.date(2014, 11, 21)]",ODI,0,87,,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Zimbabwe
+3172,"[datetime.date(2014, 11, 23)]",ODI,0,68,,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",bat,Bangladesh
+3173,"[datetime.date(2014, 11, 26)]",ODI,0,124,,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Zimbabwe
+3174,"[datetime.date(2014, 11, 28)]",ODI,0,21,,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",bat,Bangladesh
+3175,"[datetime.date(2014, 12, 1)]",ODI,0,,5,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",bat,Zimbabwe
+3180,"[datetime.date(2014, 10, 8)]",ODI,0,124,,West Indies,50,"['India', 'West Indies']",field,India
+3181,"[datetime.date(2014, 10, 11)]",ODI,0,48,,India,50,"['India', 'West Indies']",bat,India
+3182,"[datetime.date(2014, 10, 17)]",ODI,0,59,,India,50,"['India', 'West Indies']",field,West Indies
+3222,"[datetime.date(2014, 11, 2)]",ODI,0,169,,India,50,"['India', 'Sri Lanka']",field,Sri Lanka
+3223,"[datetime.date(2014, 11, 6)]",ODI,0,,6,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+3224,"[datetime.date(2014, 11, 9)]",ODI,0,,6,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+3225,"[datetime.date(2014, 11, 13)]",ODI,0,153,,India,50,"['India', 'Sri Lanka']",bat,India
+3226,"[datetime.date(2014, 11, 16)]",ODI,0,,3,India,50,"['India', 'Sri Lanka']",bat,Sri Lanka
+3243,"[datetime.date(2016, 2, 6)]",ODI,0,,5,England,50,"['South Africa', 'England']",bat,South Africa
+3244,"[datetime.date(2016, 2, 9)]",ODI,0,,7,South Africa,50,"['South Africa', 'England']",bat,England
+3245,"[datetime.date(2016, 2, 12)]",ODI,0,,1,South Africa,50,"['South Africa', 'England']",field,South Africa
+3246,"[datetime.date(2016, 2, 14)]",ODI,0,,5,South Africa,50,"['South Africa', 'England']",field,South Africa
+3247,"[datetime.date(2016, 2, 19)]",T20,0,,3,South Africa,20,"['South Africa', 'England']",field,South Africa
+3248,"[datetime.date(2016, 2, 21)]",T20,0,,9,South Africa,20,"['South Africa', 'England']",field,South Africa
+3286,"[datetime.date(2015, 7, 5)]",T20,0,52,,South Africa,20,"['Bangladesh', 'South Africa']",bat,South Africa
+3287,"[datetime.date(2015, 7, 7)]",T20,0,31,,South Africa,20,"['Bangladesh', 'South Africa']",bat,South Africa
+3288,"[datetime.date(2015, 7, 10)]",ODI,0,,8,South Africa,50,"['Bangladesh', 'South Africa']",bat,Bangladesh
+3289,"[datetime.date(2015, 7, 12)]",ODI,0,,7,Bangladesh,50,"['Bangladesh', 'South Africa']",bat,South Africa
+3356,"[datetime.date(2015, 8, 14)]",T20,0,,6,South Africa,20,"['South Africa', 'New Zealand']",field,South Africa
+3357,"[datetime.date(2015, 8, 16)]",T20,0,32,,New Zealand,20,"['South Africa', 'New Zealand']",bat,New Zealand
+3358,"[datetime.date(2015, 8, 19)]",ODI,0,20,,South Africa,50,"['South Africa', 'New Zealand']",field,New Zealand
+3359,"[datetime.date(2015, 8, 23)]",ODI,0,,8,New Zealand,50,"['South Africa', 'New Zealand']",bat,South Africa
+3360,"[datetime.date(2015, 8, 26)]",ODI,0,62,,South Africa,50,"['South Africa', 'New Zealand']",bat,South Africa
+3364,"[datetime.date(2015, 4, 17)]",ODI,0,79,,Bangladesh,50,"['Bangladesh', 'Pakistan']",bat,Bangladesh
+3365,"[datetime.date(2015, 4, 19)]",ODI,0,,7,Bangladesh,50,"['Bangladesh', 'Pakistan']",bat,Pakistan
+3366,"[datetime.date(2015, 4, 22)]",ODI,0,,8,Bangladesh,50,"['Bangladesh', 'Pakistan']",bat,Pakistan
+3367,"[datetime.date(2015, 4, 24)]",T20,0,,7,Bangladesh,20,"['Bangladesh', 'Pakistan']",bat,Pakistan
+3373,"[datetime.date(2015, 7, 11)]",ODI,0,,6,Pakistan,50,"['Sri Lanka', 'Pakistan']",field,Pakistan
+3374,"[datetime.date(2015, 7, 15)]",ODI,0,,2,Sri Lanka,50,"['Sri Lanka', 'Pakistan']",bat,Pakistan
+3375,"[datetime.date(2015, 7, 19)]",ODI,0,135,,Pakistan,50,"['Sri Lanka', 'Pakistan']",bat,Pakistan
+3376,"[datetime.date(2015, 7, 22)]",ODI,0,,7,Pakistan,50,"['Sri Lanka', 'Pakistan']",bat,Sri Lanka
+3377,"[datetime.date(2015, 7, 26)]",ODI,0,165,,Sri Lanka,50,"['Sri Lanka', 'Pakistan']",bat,Sri Lanka
+3378,"[datetime.date(2015, 7, 30)]",T20,0,29,,Pakistan,20,"['Sri Lanka', 'Pakistan']",bat,Pakistan
+3379,"[datetime.date(2015, 8, 1)]",T20,0,,1,Pakistan,20,"['Sri Lanka', 'Pakistan']",bat,Sri Lanka
+3380,"[datetime.date(2015, 5, 22)]",T20,0,,5,Pakistan,20,"['Pakistan', 'Zimbabwe']",bat,Zimbabwe
+3381,"[datetime.date(2015, 5, 24)]",T20,0,,2,Pakistan,20,"['Pakistan', 'Zimbabwe']",bat,Zimbabwe
+3382,"[datetime.date(2015, 5, 26)]",ODI,0,41,,Pakistan,50,"['Pakistan', 'Zimbabwe']",bat,Pakistan
+3383,"[datetime.date(2015, 5, 29)]",ODI,0,,6,Pakistan,50,"['Pakistan', 'Zimbabwe']",field,Pakistan
+3386,"[datetime.date(2015, 6, 18)]",ODI,0,79,,Bangladesh,50,"['Bangladesh', 'India']",bat,Bangladesh
+3388,"[datetime.date(2015, 6, 24)]",ODI,0,77,,India,50,"['Bangladesh', 'India']",field,Bangladesh
+3455,"[datetime.date(2016, 3, 4)]",T20,0,,3,South Africa,20,"['South Africa', 'Australia']",bat,Australia
+3456,"[datetime.date(2016, 3, 6)]",T20,0,,5,Australia,20,"['South Africa', 'Australia']",field,Australia
+3457,"[datetime.date(2016, 3, 9)]",T20,0,,6,Australia,20,"['South Africa', 'Australia']",bat,South Africa
+3458,"[datetime.date(2015, 7, 10)]",ODI,0,4,,India,50,"['Zimbabwe', 'India']",field,Zimbabwe
+3459,"[datetime.date(2015, 7, 12)]",ODI,0,62,,India,50,"['Zimbabwe', 'India']",field,Zimbabwe
+3460,"[datetime.date(2015, 7, 14)]",ODI,0,83,,India,50,"['Zimbabwe', 'India']",field,Zimbabwe
+3461,"[datetime.date(2015, 7, 17)]",T20,0,54,,India,20,"['Zimbabwe', 'India']",bat,India
+3462,"[datetime.date(2015, 7, 19)]",T20,0,10,,Zimbabwe,20,"['Zimbabwe', 'India']",bat,Zimbabwe
+3471,"[datetime.date(2015, 8, 2)]",ODI,0,,7,Zimbabwe,50,"['Zimbabwe', 'New Zealand']",field,Zimbabwe
+3472,"[datetime.date(2015, 8, 4)]",ODI,0,,10,New Zealand,50,"['Zimbabwe', 'New Zealand']",bat,Zimbabwe
+3473,"[datetime.date(2015, 8, 7)]",ODI,0,38,,New Zealand,50,"['Zimbabwe', 'New Zealand']",field,Zimbabwe
+3474,"[datetime.date(2015, 8, 9)]",T20,0,80,,New Zealand,50,"['Zimbabwe', 'New Zealand']",field,Zimbabwe
+3481,"[datetime.date(2016, 1, 12)]",ODI,0,,5,Australia,50,"['Australia', 'India']",bat,India
+3482,"[datetime.date(2016, 1, 15)]",ODI,0,,7,Australia,50,"['Australia', 'India']",bat,India
+3483,"[datetime.date(2016, 1, 17)]",ODI,0,,3,Australia,50,"['Australia', 'India']",field,Australia
+3484,"[datetime.date(2016, 1, 20)]",ODI,0,25,,Australia,50,"['Australia', 'India']",bat,Australia
+3485,"[datetime.date(2016, 1, 23)]",ODI,0,,6,India,50,"['Australia', 'India']",field,India
+3486,"[datetime.date(2016, 1, 26)]",T20,0,37,,India,20,"['Australia', 'India']",field,Australia
+3487,"[datetime.date(2016, 1, 29)]",T20,0,27,,India,20,"['Australia', 'India']",field,Australia
+3488,"[datetime.date(2016, 1, 31)]",T20,0,,7,India,20,"['Australia', 'India']",bat,Australia
+3524,"[datetime.date(2015, 11, 11)]",ODI,1,,6,Pakistan,50,"['England', 'Pakistan']",bat,England
+3525,"[datetime.date(2015, 11, 13)]",ODI,1,95,,England,50,"['England', 'Pakistan']",bat,England
+3526,"[datetime.date(2015, 11, 17)]",ODI,1,,6,England,50,"['England', 'Pakistan']",bat,Pakistan
+3527,"[datetime.date(2015, 11, 20)]",ODI,1,84,,England,50,"['England', 'Pakistan']",bat,England
+3528,"[datetime.date(2015, 11, 26)]",T20,1,14,,England,20,"['England', 'Pakistan']",bat,England
+3529,"[datetime.date(2015, 11, 27)]",T20,1,3,,England,20,"['England', 'Pakistan']",bat,England
+3531,"[datetime.date(2015, 10, 2)]",T20,0,,7,South Africa,20,"['India', 'South Africa']",field,South Africa
+3532,"[datetime.date(2015, 10, 5)]",T20,0,,6,South Africa,20,"['India', 'South Africa']",field,South Africa
+3533,"[datetime.date(2015, 10, 11)]",ODI,0,5,,South Africa,50,"['India', 'South Africa']",bat,South Africa
+3534,"[datetime.date(2015, 10, 14)]",ODI,0,22,,India,50,"['India', 'South Africa']",bat,India
+3535,"[datetime.date(2015, 10, 18)]",ODI,0,18,,South Africa,50,"['India', 'South Africa']",bat,South Africa
+3536,"[datetime.date(2015, 10, 22)]",ODI,0,35,,India,50,"['India', 'South Africa']",bat,India
+3537,"[datetime.date(2015, 10, 25)]",ODI,0,214,,South Africa,50,"['India', 'South Africa']",bat,South Africa
+3568,"[datetime.date(2016, 6, 24)]",ODI,0,,10,England,50,"['England', 'Sri Lanka']",bat,Sri Lanka
+3571,"[datetime.date(2016, 7, 2)]",ODI,0,122,,England,50,"['England', 'Sri Lanka']",field,Sri Lanka
+3572,"[datetime.date(2016, 7, 5)]",T20,0,,8,England,20,"['England', 'Sri Lanka']",bat,Sri Lanka
+3579,"[datetime.date(2016, 8, 27)]",ODI,0,,4,England,50,"['England', 'Pakistan']",bat,Pakistan
+3580,"[datetime.date(2016, 8, 30)]",ODI,0,169,,England,50,"['England', 'Pakistan']",bat,England
+3581,"[datetime.date(2016, 9, 1)]",ODI,0,,4,England,50,"['England', 'Pakistan']",bat,Pakistan
+3582,"[datetime.date(2016, 9, 4)]",ODI,0,,4,Pakistan,50,"['England', 'Pakistan']",field,Pakistan
+3583,"[datetime.date(2016, 9, 7)]",T20,0,,9,Pakistan,20,"['England', 'Pakistan']",bat,England
+3586,"[datetime.date(2015, 12, 26)]",ODI,0,,7,New Zealand,50,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+3587,"[datetime.date(2015, 12, 28)]",ODI,0,,10,New Zealand,50,"['New Zealand', 'Sri Lanka']",bat,Sri Lanka
+3588,"[datetime.date(2015, 12, 31)]",ODI,0,,8,Sri Lanka,50,"['New Zealand', 'Sri Lanka']",bat,New Zealand
+3590,"[datetime.date(2016, 1, 5)]",ODI,0,36,,New Zealand,50,"['New Zealand', 'Sri Lanka']",field,Sri Lanka
+3591,"[datetime.date(2016, 1, 7)]",T20,0,3,,New Zealand,20,"['New Zealand', 'Sri Lanka']",field,Sri Lanka
+3592,"[datetime.date(2016, 1, 10)]",T20,0,,9,New Zealand,20,"['New Zealand', 'Sri Lanka']",field,New Zealand
+3593,"[datetime.date(2016, 1, 15)]",T20,0,16,,Pakistan,20,"['New Zealand', 'Pakistan']",field,New Zealand
+3594,"[datetime.date(2016, 1, 17)]",T20,0,,10,New Zealand,20,"['New Zealand', 'Pakistan']",bat,Pakistan
+3595,"[datetime.date(2016, 1, 22)]",T20,0,95,,New Zealand,20,"['New Zealand', 'Pakistan']",field,Pakistan
+3596,"[datetime.date(2016, 1, 25)]",ODI,0,70,,New Zealand,50,"['New Zealand', 'Pakistan']",field,Pakistan
+3597,"[datetime.date(2016, 2, 3)]",ODI,0,159,,New Zealand,50,"['New Zealand', 'Australia']",field,Australia
+3598,"[datetime.date(2016, 2, 6)]",ODI,0,,4,Australia,50,"['New Zealand', 'Australia']",bat,New Zealand
+3599,"[datetime.date(2016, 2, 8)]",ODI,0,55,,New Zealand,50,"['New Zealand', 'Australia']",field,Australia
+3608,"[datetime.date(2015, 11, 9)]",T20,0,30,,Sri Lanka,20,"['Sri Lanka', 'West Indies']",field,West Indies
+3609,"[datetime.date(2015, 11, 11)]",T20,0,23,,West Indies,20,"['Sri Lanka', 'West Indies']",bat,West Indies
+3614,"[datetime.date(2015, 9, 27)]",T20,0,13,,Pakistan,20,"['Zimbabwe', 'Pakistan']",bat,Pakistan
+3615,"[datetime.date(2015, 9, 29)]",T20,0,15,,Pakistan,20,"['Zimbabwe', 'Pakistan']",bat,Pakistan
+3616,"[datetime.date(2015, 10, 1)]",ODI,0,131,,Pakistan,50,"['Zimbabwe', 'Pakistan']",field,Zimbabwe
+3618,"[datetime.date(2015, 10, 5)]",ODI,0,,7,Pakistan,50,"['Zimbabwe', 'Pakistan']",field,Pakistan
+3637,"[datetime.date(2015, 11, 7)]",ODI,0,145,,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Zimbabwe
+3638,"[datetime.date(2015, 11, 9)]",ODI,0,58,,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",field,Zimbabwe
+3639,"[datetime.date(2015, 11, 11)]",ODI,0,61,,Bangladesh,50,"['Bangladesh', 'Zimbabwe']",bat,Bangladesh
+3640,"[datetime.date(2015, 11, 13)]",T20,0,,4,Bangladesh,20,"['Bangladesh', 'Zimbabwe']",field,Bangladesh
+3641,"[datetime.date(2015, 11, 15)]",T20,0,,3,Zimbabwe,20,"['Bangladesh', 'Zimbabwe']",bat,Bangladesh
+3642,"[datetime.date(2016, 6, 3)]",ODI,0,,4,West Indies,50,"['West Indies', 'South Africa']",bat,South Africa
+3643,"[datetime.date(2016, 6, 5)]",ODI,0,,6,Australia,50,"['West Indies', 'Australia']",field,Australia
+3644,"[datetime.date(2016, 6, 7)]",ODI,1,47,,South Africa,50,"['Australia', 'South Africa']",bat,South Africa
+3645,"[datetime.date(2016, 6, 11)]",ODI,1,36,,Australia,50,"['Australia', 'South Africa']",bat,Australia
+3646,"[datetime.date(2016, 6, 13)]",ODI,0,,4,West Indies,50,"['West Indies', 'Australia']",field,West Indies
+3647,"[datetime.date(2016, 6, 15)]",ODI,0,139,,South Africa,50,"['West Indies', 'South Africa']",field,West Indies
+3649,"[datetime.date(2016, 6, 21)]",ODI,0,,6,Australia,50,"['West Indies', 'Australia']",field,Australia
+3650,"[datetime.date(2016, 6, 24)]",ODI,0,100,,West Indies,50,"['West Indies', 'South Africa']",field,South Africa
+3651,"[datetime.date(2016, 6, 26)]",ODI,0,58,,Australia,50,"['West Indies', 'Australia']",bat,Australia
+3661,"[datetime.date(2016, 9, 30)]",ODI,0,,6,South Africa,50,"['South Africa', 'Australia']",field,South Africa
+3662,"[datetime.date(2016, 10, 2)]",ODI,0,142,,South Africa,50,"['South Africa', 'Australia']",field,Australia
+3663,"[datetime.date(2016, 10, 5)]",ODI,0,,4,South Africa,50,"['South Africa', 'Australia']",bat,Australia
+3664,"[datetime.date(2016, 10, 9)]",ODI,0,,6,South Africa,50,"['South Africa', 'Australia']",bat,Australia
+3665,"[datetime.date(2016, 10, 12)]",ODI,0,31,,South Africa,50,"['South Africa', 'Australia']",bat,South Africa
+3669,"[datetime.date(2017, 1, 20)]",T20,0,19,,South Africa,20,"['South Africa', 'Sri Lanka']",field,Sri Lanka
+3670,"[datetime.date(2017, 1, 22)]",T20,0,,3,Sri Lanka,20,"['South Africa', 'Sri Lanka']",bat,South Africa
+3671,"[datetime.date(2017, 1, 25)]",T20,0,,5,Sri Lanka,20,"['South Africa', 'Sri Lanka']",bat,South Africa
+3672,"[datetime.date(2017, 1, 28)]",ODI,0,,8,South Africa,50,"['South Africa', 'Sri Lanka']",field,South Africa
+3673,"[datetime.date(2017, 2, 1)]",ODI,0,121,,South Africa,50,"['South Africa', 'Sri Lanka']",field,Sri Lanka
+3674,"[datetime.date(2017, 2, 4)]",ODI,0,,7,South Africa,50,"['South Africa', 'Sri Lanka']",field,South Africa
+3675,"[datetime.date(2017, 2, 7)]",ODI,0,40,,South Africa,50,"['South Africa', 'Sri Lanka']",bat,South Africa
+3676,"[datetime.date(2017, 2, 10)]",ODI,0,88,,South Africa,50,"['South Africa', 'Sri Lanka']",field,Sri Lanka
+3817,"[datetime.date(2016, 3, 15)]",T20,0,47,,New Zealand,20,"['India', 'New Zealand']",bat,New Zealand
+3818,"[datetime.date(2016, 3, 16)]",T20,1,,6,West Indies,20,"['England', 'West Indies']",field,West Indies
+3819,"[datetime.date(2016, 3, 16)]",T20,1,55,,Pakistan,20,"['Bangladesh', 'Pakistan']",bat,Pakistan
+3821,"[datetime.date(2016, 3, 18)]",T20,1,8,,New Zealand,20,"['Australia', 'New Zealand']",bat,New Zealand
+3822,"[datetime.date(2016, 3, 18)]",T20,1,,2,England,20,"['England', 'South Africa']",field,England
+3823,"[datetime.date(2016, 3, 19)]",T20,0,,6,India,20,"['India', 'Pakistan']",field,India
+3825,"[datetime.date(2016, 3, 20)]",T20,1,,7,West Indies,20,"['Sri Lanka', 'West Indies']",field,West Indies
+3826,"[datetime.date(2016, 3, 21)]",T20,1,,3,Australia,20,"['Australia', 'Bangladesh']",field,Australia
+3827,"[datetime.date(2016, 3, 22)]",T20,1,22,,New Zealand,20,"['New Zealand', 'Pakistan']",bat,New Zealand
+3829,"[datetime.date(2016, 3, 23)]",T20,0,1,,India,20,"['India', 'Bangladesh']",field,Bangladesh
+3830,"[datetime.date(2016, 3, 25)]",T20,1,21,,Australia,20,"['Australia', 'Pakistan']",bat,Australia
+3831,"[datetime.date(2016, 3, 25)]",T20,1,,3,West Indies,20,"['South Africa', 'West Indies']",field,West Indies
+3832,"[datetime.date(2016, 3, 26)]",T20,1,75,,New Zealand,20,"['Bangladesh', 'New Zealand']",bat,New Zealand
+3833,"[datetime.date(2016, 3, 26)]",T20,1,10,,England,20,"['England', 'Sri Lanka']",field,Sri Lanka
+3834,"[datetime.date(2016, 3, 27)]",T20,0,,6,India,20,"['India', 'Australia']",bat,Australia
+3836,"[datetime.date(2016, 3, 28)]",T20,1,,8,South Africa,20,"['South Africa', 'Sri Lanka']",field,South Africa
+3837,"[datetime.date(2016, 3, 30)]",T20,1,,7,England,20,"['England', 'New Zealand']",field,England
+3838,"[datetime.date(2016, 3, 31)]",T20,0,,7,West Indies,20,"['India', 'West Indies']",field,West Indies
+3839,"[datetime.date(2016, 4, 3)]",T20,1,,4,West Indies,20,"['England', 'West Indies']",field,West Indies
+3882,"[datetime.date(2016, 1, 15)]",T20,0,,4,Bangladesh,20,"['Bangladesh', 'Zimbabwe']",bat,Zimbabwe
+3883,"[datetime.date(2016, 1, 17)]",T20,0,42,,Bangladesh,20,"['Bangladesh', 'Zimbabwe']",bat,Bangladesh
+3884,"[datetime.date(2016, 1, 20)]",T20,0,31,,Zimbabwe,20,"['Bangladesh', 'Zimbabwe']",bat,Zimbabwe
+3885,"[datetime.date(2016, 1, 22)]",T20,0,18,,Zimbabwe,20,"['Bangladesh', 'Zimbabwe']",bat,Zimbabwe
+3888,"[datetime.date(2016, 2, 9)]",T20,0,,5,Sri Lanka,20,"['India', 'Sri Lanka']",field,Sri Lanka
+3889,"[datetime.date(2016, 2, 12)]",T20,0,69,,India,20,"['India', 'Sri Lanka']",field,Sri Lanka
+3890,"[datetime.date(2016, 2, 14)]",T20,0,,9,India,20,"['India', 'Sri Lanka']",field,India
+3898,"[datetime.date(2016, 2, 24)]",T20,0,45,,India,20,"['Bangladesh', 'India']",field,Bangladesh
+3901,"[datetime.date(2016, 2, 27)]",T20,1,,5,India,20,"['India', 'Pakistan']",field,India
+3902,"[datetime.date(2016, 2, 28)]",T20,0,23,,Bangladesh,20,"['Bangladesh', 'Sri Lanka']",bat,Bangladesh
+3904,"[datetime.date(2016, 3, 1)]",T20,1,,5,India,20,"['India', 'Sri Lanka']",field,India
+3905,"[datetime.date(2016, 3, 2)]",T20,0,,5,Bangladesh,20,"['Bangladesh', 'Pakistan']",bat,Pakistan
+3907,"[datetime.date(2016, 3, 4)]",T20,1,,6,Pakistan,20,"['Pakistan', 'Sri Lanka']",field,Pakistan
+3908,"[datetime.date(2016, 3, 6)]",T20,0,,8,India,20,"['Bangladesh', 'India']",field,India
+3983,"[datetime.date(2016, 8, 21)]",ODI,0,,3,Australia,50,"['Sri Lanka', 'Australia']",field,Australia
+3984,"[datetime.date(2016, 8, 24)]",ODI,0,82,,Sri Lanka,50,"['Sri Lanka', 'Australia']",bat,Sri Lanka
+3985,"[datetime.date(2016, 8, 28)]",ODI,0,,2,Australia,50,"['Sri Lanka', 'Australia']",bat,Sri Lanka
+3986,"[datetime.date(2016, 8, 31)]",ODI,0,,6,Australia,50,"['Sri Lanka', 'Australia']",bat,Sri Lanka
+3987,"[datetime.date(2016, 9, 1)]",ODI,0,,5,Australia,50,"['Sri Lanka', 'Australia']",bat,Sri Lanka
+3988,"[datetime.date(2016, 9, 6)]",T20,0,85,,Australia,20,"['Sri Lanka', 'Australia']",field,Sri Lanka
+3989,"[datetime.date(2016, 9, 9)]",T20,0,,4,Australia,20,"['Sri Lanka', 'Australia']",bat,Sri Lanka
